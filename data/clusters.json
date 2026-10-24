@@ -1,0 +1,283 @@
+{
+  "score_type": "heuristic",
+  "clusters": [
+    {
+      "cluster_id": "CL-001",
+      "risk_score": 80,
+      "risk_level": "HIGH",
+      "score_type": "heuristic",
+      "account_ids": [
+        "ACC-041",
+        "ACC-042",
+        "ACC-043",
+        "ACC-044",
+        "ACC-045",
+        "ACC-046",
+        "ACC-047",
+        "ACC-048"
+      ],
+      "entity_ids": [
+        "ACC-041",
+        "ACC-042",
+        "ACC-043",
+        "ACC-044",
+        "ACC-045",
+        "ACC-046",
+        "ACC-047",
+        "ACC-048",
+        "BEN-041",
+        "BEN-042",
+        "BEN-043",
+        "BEN-044",
+        "BEN-045",
+        "BEN-046",
+        "BEN-047",
+        "BEN-048",
+        "DEV-ATTACK-01",
+        "IP-ATTACK-01",
+        "TXN-0041",
+        "TXN-0042",
+        "TXN-0043",
+        "TXN-0044",
+        "TXN-0045",
+        "TXN-0046",
+        "TXN-0047",
+        "TXN-0048"
+      ],
+      "signals": [
+        {
+          "code": "SHARED_DEVICE",
+          "description": "At least three accounts used a common device.",
+          "points": 35,
+          "entity_ids": [
+            "DEV-ATTACK-01"
+          ]
+        },
+        {
+          "code": "RAPID_COORDINATED_ACTIVITY",
+          "description": "Transactions from at least four accounts occurred within a 15-minute window.",
+          "points": 30,
+          "account_ids": [
+            "ACC-041",
+            "ACC-042",
+            "ACC-043",
+            "ACC-044",
+            "ACC-045",
+            "ACC-046",
+            "ACC-047",
+            "ACC-048"
+          ]
+        },
+        {
+          "code": "MULTI_ACCOUNT_HIGH_VALUE",
+          "description": "At least three linked accounts made synthetic transactions of 700 units or more.",
+          "points": 15,
+          "account_ids": [
+            "ACC-041",
+            "ACC-042",
+            "ACC-043",
+            "ACC-044",
+            "ACC-045",
+            "ACC-046",
+            "ACC-047",
+            "ACC-048"
+          ]
+        },
+        {
+          "code": "SHARED_IP_CONTEXT",
+          "description": "Accounts share an IP address. This is contextual and contributes no risk points by itself.",
+          "points": 0,
+          "entity_ids": [
+            "IP-ATTACK-01"
+          ]
+        }
+      ],
+      "summary": "8 linked accounts have 4 explainable signal(s); review the evidence before taking action."
+    },
+    {
+      "cluster_id": "CL-002",
+      "risk_score": 80,
+      "risk_level": "HIGH",
+      "score_type": "heuristic",
+      "account_ids": [
+        "ACC-049",
+        "ACC-050",
+        "ACC-051",
+        "ACC-052",
+        "ACC-053",
+        "ACC-054",
+        "ACC-055",
+        "ACC-056"
+      ],
+      "entity_ids": [
+        "ACC-049",
+        "ACC-050",
+        "ACC-051",
+        "ACC-052",
+        "ACC-053",
+        "ACC-054",
+        "ACC-055",
+        "ACC-056",
+        "BEN-COMMON-01",
+        "TXN-0049",
+        "TXN-0050",
+        "TXN-0051",
+        "TXN-0052",
+        "TXN-0053",
+        "TXN-0054",
+        "TXN-0055",
+        "TXN-0056"
+      ],
+      "signals": [
+        {
+          "code": "BENEFICIARY_CONCENTRATION",
+          "description": "At least four accounts sent transactions to a common beneficiary.",
+          "points": 35,
+          "entity_ids": [
+            "BEN-COMMON-01"
+          ]
+        },
+        {
+          "code": "RAPID_COORDINATED_ACTIVITY",
+          "description": "Transactions from at least four accounts occurred within a 15-minute window.",
+          "points": 30,
+          "account_ids": [
+            "ACC-049",
+            "ACC-050",
+            "ACC-051",
+            "ACC-052",
+            "ACC-053",
+            "ACC-054"
+          ]
+        },
+        {
+          "code": "MULTI_ACCOUNT_HIGH_VALUE",
+          "description": "At least three linked accounts made synthetic transactions of 700 units or more.",
+          "points": 15,
+          "account_ids": [
+            "ACC-049",
+            "ACC-050",
+            "ACC-051",
+            "ACC-053"
+          ]
+        }
+      ],
+      "summary": "8 linked accounts have 3 explainable signal(s); review the evidence before taking action."
+    },
+    {
+      "cluster_id": "CL-003",
+      "risk_score": 80,
+      "risk_level": "HIGH",
+      "score_type": "heuristic",
+      "account_ids": [
+        "ACC-065",
+        "ACC-066",
+        "ACC-067",
+        "ACC-068",
+        "ACC-069",
+        "ACC-070",
+        "ACC-071",
+        "ACC-072"
+      ],
+      "entity_ids": [
+        "ACC-065",
+        "ACC-066",
+        "ACC-067",
+        "ACC-068",
+        "ACC-069",
+        "ACC-070",
+        "ACC-071",
+        "ACC-072",
+        "BEN-RAPID-01",
+        "IP-RAPID-01",
+        "TXN-0057",
+        "TXN-0058",
+        "TXN-0059",
+        "TXN-0060",
+        "TXN-0061",
+        "TXN-0062",
+        "TXN-0063",
+        "TXN-0064"
+      ],
+      "signals": [
+        {
+          "code": "BENEFICIARY_CONCENTRATION",
+          "description": "At least four accounts sent transactions to a common beneficiary.",
+          "points": 35,
+          "entity_ids": [
+            "BEN-RAPID-01"
+          ]
+        },
+        {
+          "code": "RAPID_COORDINATED_ACTIVITY",
+          "description": "Transactions from at least four accounts occurred within a 15-minute window.",
+          "points": 30,
+          "account_ids": [
+            "ACC-065",
+            "ACC-066",
+            "ACC-067",
+            "ACC-068",
+            "ACC-069",
+            "ACC-070",
+            "ACC-071",
+            "ACC-072"
+          ]
+        },
+        {
+          "code": "MULTI_ACCOUNT_HIGH_VALUE",
+          "description": "At least three linked accounts made synthetic transactions of 700 units or more.",
+          "points": 15,
+          "account_ids": [
+            "ACC-065",
+            "ACC-066",
+            "ACC-067",
+            "ACC-070",
+            "ACC-071",
+            "ACC-072"
+          ]
+        },
+        {
+          "code": "SHARED_IP_CONTEXT",
+          "description": "Accounts share an IP address. This is contextual and contributes no risk points by itself.",
+          "points": 0,
+          "entity_ids": [
+            "IP-RAPID-01"
+          ]
+        }
+      ],
+      "summary": "8 linked accounts have 4 explainable signal(s); review the evidence before taking action."
+    },
+    {
+      "cluster_id": "TA-ACC-073",
+      "risk_score": 40,
+      "risk_level": "LOW",
+      "score_type": "heuristic",
+      "account_ids": [
+        "ACC-073"
+      ],
+      "entity_ids": [
+        "ACC-073",
+        "BEN-TAKEOVER-01",
+        "IP-TAKEOVER-01",
+        "TXN-0074"
+      ],
+      "signals": [
+        {
+          "code": "UNFAMILIAR_ACCESS_CONTEXT",
+          "points": 20,
+          "description": "A device or IP differs from the account's earlier observed access history."
+        },
+        {
+          "code": "NEW_BENEFICIARY_AFTER_UNFAMILIAR_ACCESS",
+          "points": 20,
+          "description": "A transfer to a previously unseen beneficiary followed unfamiliar access within one hour."
+        }
+      ],
+      "evidence_ids": [
+        "EV-0320",
+        "EV-0322"
+      ],
+      "summary": "Unfamiliar access was followed by a transfer to a new beneficiary. This is an investigation lead, not proof of impersonation or fraud."
+    }
+  ]
+}

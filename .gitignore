@@ -1,0 +1,26 @@
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local logs
+*.log
+
+# Local certificates and backups
+.certs/
+*.bak
+*.bak.*
+tests.bak/
+
+# Local certificates and backups
+.certs/
+*.bak
+*.bak.*
+tests.bak/

@@ -1,0 +1,3584 @@
+[
+  {
+    "id": "REL-0001",
+    "source": "ACC-001",
+    "target": "DEV-001",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:13:00Z",
+    "evidence_id": "EV-0001",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0002",
+    "source": "ACC-001",
+    "target": "IP-001",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:14:00Z",
+    "evidence_id": "EV-0002",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0003",
+    "source": "ACC-001",
+    "target": "SES-001",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:15:00Z",
+    "evidence_id": "EV-0003",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0004",
+    "source": "ACC-001",
+    "target": "PH-001",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:16:00Z",
+    "evidence_id": "EV-0004",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0005",
+    "source": "ACC-001",
+    "target": "EM-001",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:17:00Z",
+    "evidence_id": "EV-0005",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0006",
+    "source": "ACC-001",
+    "target": "TXN-0001",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:18:00Z",
+    "evidence_id": "EV-0006",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0007",
+    "source": "ACC-002",
+    "target": "DEV-002",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:26:00Z",
+    "evidence_id": "EV-0007",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0008",
+    "source": "ACC-002",
+    "target": "IP-002",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:27:00Z",
+    "evidence_id": "EV-0008",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0009",
+    "source": "ACC-002",
+    "target": "SES-002",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:28:00Z",
+    "evidence_id": "EV-0009",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0010",
+    "source": "ACC-002",
+    "target": "PH-002",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:29:00Z",
+    "evidence_id": "EV-0010",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0011",
+    "source": "ACC-002",
+    "target": "EM-002",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:30:00Z",
+    "evidence_id": "EV-0011",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0012",
+    "source": "ACC-002",
+    "target": "TXN-0002",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:31:00Z",
+    "evidence_id": "EV-0012",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0013",
+    "source": "ACC-003",
+    "target": "DEV-003",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:39:00Z",
+    "evidence_id": "EV-0013",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0014",
+    "source": "ACC-003",
+    "target": "IP-003",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:40:00Z",
+    "evidence_id": "EV-0014",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0015",
+    "source": "ACC-003",
+    "target": "SES-003",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:41:00Z",
+    "evidence_id": "EV-0015",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0016",
+    "source": "ACC-003",
+    "target": "PH-003",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:42:00Z",
+    "evidence_id": "EV-0016",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0017",
+    "source": "ACC-003",
+    "target": "EM-003",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:43:00Z",
+    "evidence_id": "EV-0017",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0018",
+    "source": "ACC-003",
+    "target": "TXN-0003",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:44:00Z",
+    "evidence_id": "EV-0018",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0019",
+    "source": "ACC-004",
+    "target": "DEV-004",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:52:00Z",
+    "evidence_id": "EV-0019",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0020",
+    "source": "ACC-004",
+    "target": "IP-004",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:53:00Z",
+    "evidence_id": "EV-0020",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0021",
+    "source": "ACC-004",
+    "target": "SES-004",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:54:00Z",
+    "evidence_id": "EV-0021",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0022",
+    "source": "ACC-004",
+    "target": "PH-004",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:55:00Z",
+    "evidence_id": "EV-0022",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0023",
+    "source": "ACC-004",
+    "target": "EM-004",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:56:00Z",
+    "evidence_id": "EV-0023",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0024",
+    "source": "ACC-004",
+    "target": "TXN-0004",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:57:00Z",
+    "evidence_id": "EV-0024",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0025",
+    "source": "ACC-005",
+    "target": "DEV-005",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:05:00Z",
+    "evidence_id": "EV-0025",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0026",
+    "source": "ACC-005",
+    "target": "IP-005",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:06:00Z",
+    "evidence_id": "EV-0026",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0027",
+    "source": "ACC-005",
+    "target": "SES-005",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:07:00Z",
+    "evidence_id": "EV-0027",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0028",
+    "source": "ACC-005",
+    "target": "PH-005",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:08:00Z",
+    "evidence_id": "EV-0028",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0029",
+    "source": "ACC-005",
+    "target": "EM-005",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:09:00Z",
+    "evidence_id": "EV-0029",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0030",
+    "source": "ACC-005",
+    "target": "TXN-0005",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:10:00Z",
+    "evidence_id": "EV-0030",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0031",
+    "source": "ACC-006",
+    "target": "DEV-006",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:18:00Z",
+    "evidence_id": "EV-0031",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0032",
+    "source": "ACC-006",
+    "target": "IP-006",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:19:00Z",
+    "evidence_id": "EV-0032",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0033",
+    "source": "ACC-006",
+    "target": "SES-006",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:20:00Z",
+    "evidence_id": "EV-0033",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0034",
+    "source": "ACC-006",
+    "target": "PH-006",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:21:00Z",
+    "evidence_id": "EV-0034",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0035",
+    "source": "ACC-006",
+    "target": "EM-006",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:22:00Z",
+    "evidence_id": "EV-0035",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0036",
+    "source": "ACC-006",
+    "target": "TXN-0006",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:23:00Z",
+    "evidence_id": "EV-0036",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0037",
+    "source": "ACC-007",
+    "target": "DEV-007",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:31:00Z",
+    "evidence_id": "EV-0037",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0038",
+    "source": "ACC-007",
+    "target": "IP-007",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:32:00Z",
+    "evidence_id": "EV-0038",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0039",
+    "source": "ACC-007",
+    "target": "SES-007",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:33:00Z",
+    "evidence_id": "EV-0039",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0040",
+    "source": "ACC-007",
+    "target": "PH-007",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:34:00Z",
+    "evidence_id": "EV-0040",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0041",
+    "source": "ACC-007",
+    "target": "EM-007",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:35:00Z",
+    "evidence_id": "EV-0041",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0042",
+    "source": "ACC-007",
+    "target": "TXN-0007",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:36:00Z",
+    "evidence_id": "EV-0042",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0043",
+    "source": "ACC-008",
+    "target": "DEV-008",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:44:00Z",
+    "evidence_id": "EV-0043",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0044",
+    "source": "ACC-008",
+    "target": "IP-008",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:45:00Z",
+    "evidence_id": "EV-0044",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0045",
+    "source": "ACC-008",
+    "target": "SES-008",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:46:00Z",
+    "evidence_id": "EV-0045",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0046",
+    "source": "ACC-008",
+    "target": "PH-008",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:47:00Z",
+    "evidence_id": "EV-0046",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0047",
+    "source": "ACC-008",
+    "target": "EM-008",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:48:00Z",
+    "evidence_id": "EV-0047",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0048",
+    "source": "ACC-008",
+    "target": "TXN-0008",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:49:00Z",
+    "evidence_id": "EV-0048",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0049",
+    "source": "ACC-009",
+    "target": "DEV-009",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:57:00Z",
+    "evidence_id": "EV-0049",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0050",
+    "source": "ACC-009",
+    "target": "IP-009",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:58:00Z",
+    "evidence_id": "EV-0050",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0051",
+    "source": "ACC-009",
+    "target": "SES-009",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:59:00Z",
+    "evidence_id": "EV-0051",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0052",
+    "source": "ACC-009",
+    "target": "PH-009",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:00:00Z",
+    "evidence_id": "EV-0052",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0053",
+    "source": "ACC-009",
+    "target": "EM-009",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:01:00Z",
+    "evidence_id": "EV-0053",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0054",
+    "source": "ACC-009",
+    "target": "TXN-0009",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:02:00Z",
+    "evidence_id": "EV-0054",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0055",
+    "source": "ACC-010",
+    "target": "DEV-010",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:10:00Z",
+    "evidence_id": "EV-0055",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0056",
+    "source": "ACC-010",
+    "target": "IP-010",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:11:00Z",
+    "evidence_id": "EV-0056",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0057",
+    "source": "ACC-010",
+    "target": "SES-010",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:12:00Z",
+    "evidence_id": "EV-0057",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0058",
+    "source": "ACC-010",
+    "target": "PH-010",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:13:00Z",
+    "evidence_id": "EV-0058",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0059",
+    "source": "ACC-010",
+    "target": "EM-010",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:14:00Z",
+    "evidence_id": "EV-0059",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0060",
+    "source": "ACC-010",
+    "target": "TXN-0010",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:15:00Z",
+    "evidence_id": "EV-0060",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0061",
+    "source": "ACC-011",
+    "target": "DEV-011",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:23:00Z",
+    "evidence_id": "EV-0061",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0062",
+    "source": "ACC-011",
+    "target": "IP-011",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:24:00Z",
+    "evidence_id": "EV-0062",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0063",
+    "source": "ACC-011",
+    "target": "SES-011",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:25:00Z",
+    "evidence_id": "EV-0063",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0064",
+    "source": "ACC-011",
+    "target": "PH-011",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:26:00Z",
+    "evidence_id": "EV-0064",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0065",
+    "source": "ACC-011",
+    "target": "EM-011",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:27:00Z",
+    "evidence_id": "EV-0065",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0066",
+    "source": "ACC-011",
+    "target": "TXN-0011",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:28:00Z",
+    "evidence_id": "EV-0066",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0067",
+    "source": "ACC-012",
+    "target": "DEV-012",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:36:00Z",
+    "evidence_id": "EV-0067",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0068",
+    "source": "ACC-012",
+    "target": "IP-012",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:37:00Z",
+    "evidence_id": "EV-0068",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0069",
+    "source": "ACC-012",
+    "target": "SES-012",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:38:00Z",
+    "evidence_id": "EV-0069",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0070",
+    "source": "ACC-012",
+    "target": "PH-012",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:39:00Z",
+    "evidence_id": "EV-0070",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0071",
+    "source": "ACC-012",
+    "target": "EM-012",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:40:00Z",
+    "evidence_id": "EV-0071",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0072",
+    "source": "ACC-012",
+    "target": "TXN-0012",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:41:00Z",
+    "evidence_id": "EV-0072",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0073",
+    "source": "ACC-013",
+    "target": "DEV-013",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:49:00Z",
+    "evidence_id": "EV-0073",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0074",
+    "source": "ACC-013",
+    "target": "IP-013",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:50:00Z",
+    "evidence_id": "EV-0074",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0075",
+    "source": "ACC-013",
+    "target": "SES-013",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:51:00Z",
+    "evidence_id": "EV-0075",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0076",
+    "source": "ACC-013",
+    "target": "PH-013",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:52:00Z",
+    "evidence_id": "EV-0076",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0077",
+    "source": "ACC-013",
+    "target": "EM-013",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:53:00Z",
+    "evidence_id": "EV-0077",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0078",
+    "source": "ACC-013",
+    "target": "TXN-0013",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:54:00Z",
+    "evidence_id": "EV-0078",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0079",
+    "source": "ACC-014",
+    "target": "DEV-014",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:02:00Z",
+    "evidence_id": "EV-0079",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0080",
+    "source": "ACC-014",
+    "target": "IP-014",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:03:00Z",
+    "evidence_id": "EV-0080",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0081",
+    "source": "ACC-014",
+    "target": "SES-014",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:04:00Z",
+    "evidence_id": "EV-0081",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0082",
+    "source": "ACC-014",
+    "target": "PH-014",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:05:00Z",
+    "evidence_id": "EV-0082",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0083",
+    "source": "ACC-014",
+    "target": "EM-014",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:06:00Z",
+    "evidence_id": "EV-0083",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0084",
+    "source": "ACC-014",
+    "target": "TXN-0014",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:07:00Z",
+    "evidence_id": "EV-0084",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0085",
+    "source": "ACC-015",
+    "target": "DEV-015",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:15:00Z",
+    "evidence_id": "EV-0085",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0086",
+    "source": "ACC-015",
+    "target": "IP-015",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:16:00Z",
+    "evidence_id": "EV-0086",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0087",
+    "source": "ACC-015",
+    "target": "SES-015",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:17:00Z",
+    "evidence_id": "EV-0087",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0088",
+    "source": "ACC-015",
+    "target": "PH-015",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:18:00Z",
+    "evidence_id": "EV-0088",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0089",
+    "source": "ACC-015",
+    "target": "EM-015",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:19:00Z",
+    "evidence_id": "EV-0089",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0090",
+    "source": "ACC-015",
+    "target": "TXN-0015",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:20:00Z",
+    "evidence_id": "EV-0090",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0091",
+    "source": "ACC-016",
+    "target": "DEV-016",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:28:00Z",
+    "evidence_id": "EV-0091",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0092",
+    "source": "ACC-016",
+    "target": "IP-016",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:29:00Z",
+    "evidence_id": "EV-0092",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0093",
+    "source": "ACC-016",
+    "target": "SES-016",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:30:00Z",
+    "evidence_id": "EV-0093",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0094",
+    "source": "ACC-016",
+    "target": "PH-016",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:31:00Z",
+    "evidence_id": "EV-0094",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0095",
+    "source": "ACC-016",
+    "target": "EM-016",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:32:00Z",
+    "evidence_id": "EV-0095",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0096",
+    "source": "ACC-016",
+    "target": "TXN-0016",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:33:00Z",
+    "evidence_id": "EV-0096",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0097",
+    "source": "ACC-017",
+    "target": "DEV-017",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:41:00Z",
+    "evidence_id": "EV-0097",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0098",
+    "source": "ACC-017",
+    "target": "IP-017",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:42:00Z",
+    "evidence_id": "EV-0098",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0099",
+    "source": "ACC-017",
+    "target": "SES-017",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:43:00Z",
+    "evidence_id": "EV-0099",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0100",
+    "source": "ACC-017",
+    "target": "PH-017",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:44:00Z",
+    "evidence_id": "EV-0100",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0101",
+    "source": "ACC-017",
+    "target": "EM-017",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:45:00Z",
+    "evidence_id": "EV-0101",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0102",
+    "source": "ACC-017",
+    "target": "TXN-0017",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:46:00Z",
+    "evidence_id": "EV-0102",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0103",
+    "source": "ACC-018",
+    "target": "DEV-018",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:54:00Z",
+    "evidence_id": "EV-0103",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0104",
+    "source": "ACC-018",
+    "target": "IP-018",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:55:00Z",
+    "evidence_id": "EV-0104",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0105",
+    "source": "ACC-018",
+    "target": "SES-018",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:56:00Z",
+    "evidence_id": "EV-0105",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0106",
+    "source": "ACC-018",
+    "target": "PH-018",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:57:00Z",
+    "evidence_id": "EV-0106",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0107",
+    "source": "ACC-018",
+    "target": "EM-018",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:58:00Z",
+    "evidence_id": "EV-0107",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0108",
+    "source": "ACC-018",
+    "target": "TXN-0018",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:59:00Z",
+    "evidence_id": "EV-0108",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0109",
+    "source": "ACC-019",
+    "target": "DEV-019",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:07:00Z",
+    "evidence_id": "EV-0109",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0110",
+    "source": "ACC-019",
+    "target": "IP-019",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:08:00Z",
+    "evidence_id": "EV-0110",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0111",
+    "source": "ACC-019",
+    "target": "SES-019",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:09:00Z",
+    "evidence_id": "EV-0111",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0112",
+    "source": "ACC-019",
+    "target": "PH-019",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:10:00Z",
+    "evidence_id": "EV-0112",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0113",
+    "source": "ACC-019",
+    "target": "EM-019",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:11:00Z",
+    "evidence_id": "EV-0113",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0114",
+    "source": "ACC-019",
+    "target": "TXN-0019",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:12:00Z",
+    "evidence_id": "EV-0114",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0115",
+    "source": "ACC-020",
+    "target": "DEV-020",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:20:00Z",
+    "evidence_id": "EV-0115",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0116",
+    "source": "ACC-020",
+    "target": "IP-020",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:21:00Z",
+    "evidence_id": "EV-0116",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0117",
+    "source": "ACC-020",
+    "target": "SES-020",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:22:00Z",
+    "evidence_id": "EV-0117",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0118",
+    "source": "ACC-020",
+    "target": "PH-020",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:23:00Z",
+    "evidence_id": "EV-0118",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0119",
+    "source": "ACC-020",
+    "target": "EM-020",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:24:00Z",
+    "evidence_id": "EV-0119",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0120",
+    "source": "ACC-020",
+    "target": "TXN-0020",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:25:00Z",
+    "evidence_id": "EV-0120",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0121",
+    "source": "ACC-021",
+    "target": "DEV-021",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:33:00Z",
+    "evidence_id": "EV-0121",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0122",
+    "source": "ACC-021",
+    "target": "IP-021",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:34:00Z",
+    "evidence_id": "EV-0122",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0123",
+    "source": "ACC-021",
+    "target": "SES-021",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:35:00Z",
+    "evidence_id": "EV-0123",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0124",
+    "source": "ACC-021",
+    "target": "PH-021",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:36:00Z",
+    "evidence_id": "EV-0124",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0125",
+    "source": "ACC-021",
+    "target": "EM-021",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:37:00Z",
+    "evidence_id": "EV-0125",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0126",
+    "source": "ACC-021",
+    "target": "TXN-0021",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:38:00Z",
+    "evidence_id": "EV-0126",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0127",
+    "source": "ACC-022",
+    "target": "DEV-022",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:46:00Z",
+    "evidence_id": "EV-0127",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0128",
+    "source": "ACC-022",
+    "target": "IP-022",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:47:00Z",
+    "evidence_id": "EV-0128",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0129",
+    "source": "ACC-022",
+    "target": "SES-022",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:48:00Z",
+    "evidence_id": "EV-0129",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0130",
+    "source": "ACC-022",
+    "target": "PH-022",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:49:00Z",
+    "evidence_id": "EV-0130",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0131",
+    "source": "ACC-022",
+    "target": "EM-022",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:50:00Z",
+    "evidence_id": "EV-0131",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0132",
+    "source": "ACC-022",
+    "target": "TXN-0022",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:51:00Z",
+    "evidence_id": "EV-0132",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0133",
+    "source": "ACC-023",
+    "target": "DEV-023",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:59:00Z",
+    "evidence_id": "EV-0133",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0134",
+    "source": "ACC-023",
+    "target": "IP-023",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:00:00Z",
+    "evidence_id": "EV-0134",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0135",
+    "source": "ACC-023",
+    "target": "SES-023",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:01:00Z",
+    "evidence_id": "EV-0135",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0136",
+    "source": "ACC-023",
+    "target": "PH-023",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:02:00Z",
+    "evidence_id": "EV-0136",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0137",
+    "source": "ACC-023",
+    "target": "EM-023",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:03:00Z",
+    "evidence_id": "EV-0137",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0138",
+    "source": "ACC-023",
+    "target": "TXN-0023",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:04:00Z",
+    "evidence_id": "EV-0138",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0139",
+    "source": "ACC-024",
+    "target": "DEV-024",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:12:00Z",
+    "evidence_id": "EV-0139",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0140",
+    "source": "ACC-024",
+    "target": "IP-024",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:13:00Z",
+    "evidence_id": "EV-0140",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0141",
+    "source": "ACC-024",
+    "target": "SES-024",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:14:00Z",
+    "evidence_id": "EV-0141",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0142",
+    "source": "ACC-024",
+    "target": "PH-024",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:15:00Z",
+    "evidence_id": "EV-0142",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0143",
+    "source": "ACC-024",
+    "target": "EM-024",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:16:00Z",
+    "evidence_id": "EV-0143",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0144",
+    "source": "ACC-024",
+    "target": "TXN-0024",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:17:00Z",
+    "evidence_id": "EV-0144",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0145",
+    "source": "ACC-025",
+    "target": "DEV-025",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:25:00Z",
+    "evidence_id": "EV-0145",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0146",
+    "source": "ACC-025",
+    "target": "IP-025",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:26:00Z",
+    "evidence_id": "EV-0146",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0147",
+    "source": "ACC-025",
+    "target": "SES-025",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:27:00Z",
+    "evidence_id": "EV-0147",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0148",
+    "source": "ACC-025",
+    "target": "PH-025",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:28:00Z",
+    "evidence_id": "EV-0148",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0149",
+    "source": "ACC-025",
+    "target": "EM-025",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:29:00Z",
+    "evidence_id": "EV-0149",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0150",
+    "source": "ACC-025",
+    "target": "TXN-0025",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:30:00Z",
+    "evidence_id": "EV-0150",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0151",
+    "source": "ACC-026",
+    "target": "DEV-026",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:38:00Z",
+    "evidence_id": "EV-0151",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0152",
+    "source": "ACC-026",
+    "target": "IP-026",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:39:00Z",
+    "evidence_id": "EV-0152",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0153",
+    "source": "ACC-026",
+    "target": "SES-026",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:40:00Z",
+    "evidence_id": "EV-0153",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0154",
+    "source": "ACC-026",
+    "target": "PH-026",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:41:00Z",
+    "evidence_id": "EV-0154",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0155",
+    "source": "ACC-026",
+    "target": "EM-026",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:42:00Z",
+    "evidence_id": "EV-0155",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0156",
+    "source": "ACC-026",
+    "target": "TXN-0026",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:43:00Z",
+    "evidence_id": "EV-0156",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0157",
+    "source": "ACC-027",
+    "target": "DEV-027",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:51:00Z",
+    "evidence_id": "EV-0157",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0158",
+    "source": "ACC-027",
+    "target": "IP-027",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:52:00Z",
+    "evidence_id": "EV-0158",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0159",
+    "source": "ACC-027",
+    "target": "SES-027",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:53:00Z",
+    "evidence_id": "EV-0159",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0160",
+    "source": "ACC-027",
+    "target": "PH-027",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:54:00Z",
+    "evidence_id": "EV-0160",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0161",
+    "source": "ACC-027",
+    "target": "EM-027",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:55:00Z",
+    "evidence_id": "EV-0161",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0162",
+    "source": "ACC-027",
+    "target": "TXN-0027",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:56:00Z",
+    "evidence_id": "EV-0162",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0163",
+    "source": "ACC-028",
+    "target": "DEV-028",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T10:04:00Z",
+    "evidence_id": "EV-0163",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0164",
+    "source": "ACC-028",
+    "target": "IP-028",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T10:05:00Z",
+    "evidence_id": "EV-0164",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0165",
+    "source": "ACC-028",
+    "target": "SES-028",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T10:06:00Z",
+    "evidence_id": "EV-0165",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0166",
+    "source": "ACC-028",
+    "target": "PH-028",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T10:07:00Z",
+    "evidence_id": "EV-0166",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0167",
+    "source": "ACC-028",
+    "target": "EM-028",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T10:08:00Z",
+    "evidence_id": "EV-0167",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0168",
+    "source": "ACC-028",
+    "target": "TXN-0028",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T10:09:00Z",
+    "evidence_id": "EV-0168",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0169",
+    "source": "ACC-029",
+    "target": "DEV-029",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T10:17:00Z",
+    "evidence_id": "EV-0169",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0170",
+    "source": "ACC-029",
+    "target": "IP-029",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T10:18:00Z",
+    "evidence_id": "EV-0170",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0171",
+    "source": "ACC-029",
+    "target": "SES-029",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T10:19:00Z",
+    "evidence_id": "EV-0171",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0172",
+    "source": "ACC-029",
+    "target": "PH-029",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T10:20:00Z",
+    "evidence_id": "EV-0172",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0173",
+    "source": "ACC-029",
+    "target": "EM-029",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T10:21:00Z",
+    "evidence_id": "EV-0173",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0174",
+    "source": "ACC-029",
+    "target": "TXN-0029",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T10:22:00Z",
+    "evidence_id": "EV-0174",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0175",
+    "source": "ACC-030",
+    "target": "DEV-030",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T10:30:00Z",
+    "evidence_id": "EV-0175",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0176",
+    "source": "ACC-030",
+    "target": "IP-030",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T10:31:00Z",
+    "evidence_id": "EV-0176",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0177",
+    "source": "ACC-030",
+    "target": "SES-030",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T10:32:00Z",
+    "evidence_id": "EV-0177",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0178",
+    "source": "ACC-030",
+    "target": "PH-030",
+    "type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T10:33:00Z",
+    "evidence_id": "EV-0178",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0179",
+    "source": "ACC-030",
+    "target": "EM-030",
+    "type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T10:34:00Z",
+    "evidence_id": "EV-0179",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0180",
+    "source": "ACC-030",
+    "target": "TXN-0030",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T10:35:00Z",
+    "evidence_id": "EV-0180",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0181",
+    "source": "ACC-031",
+    "target": "DEV-031",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:07:00Z",
+    "evidence_id": "EV-0181",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0182",
+    "source": "ACC-031",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T21:09:00Z",
+    "evidence_id": "EV-0182",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0183",
+    "source": "ACC-031",
+    "target": "TXN-0031",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T21:27:00Z",
+    "evidence_id": "EV-0183",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0184",
+    "source": "ACC-032",
+    "target": "DEV-032",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:24:00Z",
+    "evidence_id": "EV-0184",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0185",
+    "source": "ACC-032",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T21:26:00Z",
+    "evidence_id": "EV-0185",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0186",
+    "source": "ACC-032",
+    "target": "TXN-0032",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T21:44:00Z",
+    "evidence_id": "EV-0186",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0187",
+    "source": "ACC-033",
+    "target": "DEV-033",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:41:00Z",
+    "evidence_id": "EV-0187",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0188",
+    "source": "ACC-033",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T21:43:00Z",
+    "evidence_id": "EV-0188",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0189",
+    "source": "ACC-033",
+    "target": "TXN-0033",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:01:00Z",
+    "evidence_id": "EV-0189",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0190",
+    "source": "ACC-034",
+    "target": "DEV-034",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:58:00Z",
+    "evidence_id": "EV-0190",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0191",
+    "source": "ACC-034",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:00:00Z",
+    "evidence_id": "EV-0191",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0192",
+    "source": "ACC-034",
+    "target": "TXN-0034",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:18:00Z",
+    "evidence_id": "EV-0192",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0193",
+    "source": "ACC-035",
+    "target": "DEV-035",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T22:15:00Z",
+    "evidence_id": "EV-0193",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0194",
+    "source": "ACC-035",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:17:00Z",
+    "evidence_id": "EV-0194",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0195",
+    "source": "ACC-035",
+    "target": "TXN-0035",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:35:00Z",
+    "evidence_id": "EV-0195",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0196",
+    "source": "ACC-036",
+    "target": "DEV-036",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T22:32:00Z",
+    "evidence_id": "EV-0196",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0197",
+    "source": "ACC-036",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:34:00Z",
+    "evidence_id": "EV-0197",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0198",
+    "source": "ACC-036",
+    "target": "TXN-0036",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:52:00Z",
+    "evidence_id": "EV-0198",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0199",
+    "source": "ACC-037",
+    "target": "DEV-037",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T22:49:00Z",
+    "evidence_id": "EV-0199",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0200",
+    "source": "ACC-037",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:51:00Z",
+    "evidence_id": "EV-0200",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0201",
+    "source": "ACC-037",
+    "target": "TXN-0037",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T23:09:00Z",
+    "evidence_id": "EV-0201",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0202",
+    "source": "ACC-038",
+    "target": "DEV-038",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T23:06:00Z",
+    "evidence_id": "EV-0202",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0203",
+    "source": "ACC-038",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T23:08:00Z",
+    "evidence_id": "EV-0203",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0204",
+    "source": "ACC-038",
+    "target": "TXN-0038",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T23:26:00Z",
+    "evidence_id": "EV-0204",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0205",
+    "source": "ACC-039",
+    "target": "DEV-039",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T23:23:00Z",
+    "evidence_id": "EV-0205",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0206",
+    "source": "ACC-039",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T23:25:00Z",
+    "evidence_id": "EV-0206",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0207",
+    "source": "ACC-039",
+    "target": "TXN-0039",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T23:43:00Z",
+    "evidence_id": "EV-0207",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0208",
+    "source": "ACC-040",
+    "target": "DEV-040",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T23:40:00Z",
+    "evidence_id": "EV-0208",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0209",
+    "source": "ACC-040",
+    "target": "IP-SHARED-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T23:42:00Z",
+    "evidence_id": "EV-0209",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0210",
+    "source": "ACC-040",
+    "target": "TXN-0040",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T00:00:00Z",
+    "evidence_id": "EV-0210",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0211",
+    "source": "ACC-041",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:40:00Z",
+    "evidence_id": "EV-0211",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0212",
+    "source": "ACC-041",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:41:00Z",
+    "evidence_id": "EV-0212",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0213",
+    "source": "ACC-041",
+    "target": "SES-041",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:42:00Z",
+    "evidence_id": "EV-0213",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0214",
+    "source": "ACC-041",
+    "target": "TXN-0041",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "evidence_id": "EV-0214",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0215",
+    "source": "ACC-042",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:41:00Z",
+    "evidence_id": "EV-0215",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0216",
+    "source": "ACC-042",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:42:00Z",
+    "evidence_id": "EV-0216",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0217",
+    "source": "ACC-042",
+    "target": "SES-042",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "evidence_id": "EV-0217",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0218",
+    "source": "ACC-042",
+    "target": "TXN-0042",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "evidence_id": "EV-0218",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0219",
+    "source": "ACC-043",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:42:00Z",
+    "evidence_id": "EV-0219",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0220",
+    "source": "ACC-043",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "evidence_id": "EV-0220",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0221",
+    "source": "ACC-043",
+    "target": "SES-043",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "evidence_id": "EV-0221",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0222",
+    "source": "ACC-043",
+    "target": "TXN-0043",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "evidence_id": "EV-0222",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0223",
+    "source": "ACC-044",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "evidence_id": "EV-0223",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0224",
+    "source": "ACC-044",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "evidence_id": "EV-0224",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0225",
+    "source": "ACC-044",
+    "target": "SES-044",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "evidence_id": "EV-0225",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0226",
+    "source": "ACC-044",
+    "target": "TXN-0044",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "evidence_id": "EV-0226",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0227",
+    "source": "ACC-045",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "evidence_id": "EV-0227",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0228",
+    "source": "ACC-045",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "evidence_id": "EV-0228",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0229",
+    "source": "ACC-045",
+    "target": "SES-045",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "evidence_id": "EV-0229",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0230",
+    "source": "ACC-045",
+    "target": "TXN-0045",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "evidence_id": "EV-0230",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0231",
+    "source": "ACC-046",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "evidence_id": "EV-0231",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0232",
+    "source": "ACC-046",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "evidence_id": "EV-0232",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0233",
+    "source": "ACC-046",
+    "target": "SES-046",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "evidence_id": "EV-0233",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0234",
+    "source": "ACC-046",
+    "target": "TXN-0046",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "evidence_id": "EV-0234",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0235",
+    "source": "ACC-047",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "evidence_id": "EV-0235",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0236",
+    "source": "ACC-047",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "evidence_id": "EV-0236",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0237",
+    "source": "ACC-047",
+    "target": "SES-047",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "evidence_id": "EV-0237",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0238",
+    "source": "ACC-047",
+    "target": "TXN-0047",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:49:00Z",
+    "evidence_id": "EV-0238",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0239",
+    "source": "ACC-048",
+    "target": "DEV-ATTACK-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "evidence_id": "EV-0239",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0240",
+    "source": "ACC-048",
+    "target": "IP-ATTACK-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "evidence_id": "EV-0240",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0241",
+    "source": "ACC-048",
+    "target": "SES-048",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:49:00Z",
+    "evidence_id": "EV-0241",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0242",
+    "source": "ACC-048",
+    "target": "TXN-0048",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:50:00Z",
+    "evidence_id": "EV-0242",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0243",
+    "source": "ACC-049",
+    "target": "IP-049",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:00:00Z",
+    "evidence_id": "EV-0243",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0244",
+    "source": "ACC-049",
+    "target": "TXN-0049",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:01:00Z",
+    "evidence_id": "EV-0244",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0245",
+    "source": "ACC-050",
+    "target": "IP-050",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:03:00Z",
+    "evidence_id": "EV-0245",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0246",
+    "source": "ACC-050",
+    "target": "TXN-0050",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:04:00Z",
+    "evidence_id": "EV-0246",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0247",
+    "source": "ACC-051",
+    "target": "IP-051",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:06:00Z",
+    "evidence_id": "EV-0247",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0248",
+    "source": "ACC-051",
+    "target": "TXN-0051",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:07:00Z",
+    "evidence_id": "EV-0248",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0249",
+    "source": "ACC-052",
+    "target": "IP-052",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:09:00Z",
+    "evidence_id": "EV-0249",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0250",
+    "source": "ACC-052",
+    "target": "TXN-0052",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:10:00Z",
+    "evidence_id": "EV-0250",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0251",
+    "source": "ACC-053",
+    "target": "IP-053",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:12:00Z",
+    "evidence_id": "EV-0251",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0252",
+    "source": "ACC-053",
+    "target": "TXN-0053",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:13:00Z",
+    "evidence_id": "EV-0252",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0253",
+    "source": "ACC-054",
+    "target": "IP-054",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:15:00Z",
+    "evidence_id": "EV-0253",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0254",
+    "source": "ACC-054",
+    "target": "TXN-0054",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:16:00Z",
+    "evidence_id": "EV-0254",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0255",
+    "source": "ACC-055",
+    "target": "IP-055",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:18:00Z",
+    "evidence_id": "EV-0255",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0256",
+    "source": "ACC-055",
+    "target": "TXN-0055",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:19:00Z",
+    "evidence_id": "EV-0256",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0257",
+    "source": "ACC-056",
+    "target": "IP-056",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:21:00Z",
+    "evidence_id": "EV-0257",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0258",
+    "source": "ACC-056",
+    "target": "TXN-0056",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:22:00Z",
+    "evidence_id": "EV-0258",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0259",
+    "source": "ACC-065",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:00:00Z",
+    "evidence_id": "EV-0259",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0260",
+    "source": "ACC-065",
+    "target": "SES-065",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:01:00Z",
+    "evidence_id": "EV-0260",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0261",
+    "source": "ACC-065",
+    "target": "DEV-065",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:02:00Z",
+    "evidence_id": "EV-0261",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0262",
+    "source": "ACC-065",
+    "target": "TXN-0057",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:03:00Z",
+    "evidence_id": "EV-0262",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0263",
+    "source": "ACC-066",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:02:00Z",
+    "evidence_id": "EV-0263",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0264",
+    "source": "ACC-066",
+    "target": "SES-066",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:03:00Z",
+    "evidence_id": "EV-0264",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0265",
+    "source": "ACC-066",
+    "target": "DEV-066",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:04:00Z",
+    "evidence_id": "EV-0265",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0266",
+    "source": "ACC-066",
+    "target": "TXN-0058",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:05:00Z",
+    "evidence_id": "EV-0266",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0267",
+    "source": "ACC-067",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:04:00Z",
+    "evidence_id": "EV-0267",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0268",
+    "source": "ACC-067",
+    "target": "SES-067",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:05:00Z",
+    "evidence_id": "EV-0268",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0269",
+    "source": "ACC-067",
+    "target": "DEV-067",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:06:00Z",
+    "evidence_id": "EV-0269",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0270",
+    "source": "ACC-067",
+    "target": "TXN-0059",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:07:00Z",
+    "evidence_id": "EV-0270",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0271",
+    "source": "ACC-068",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:06:00Z",
+    "evidence_id": "EV-0271",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0272",
+    "source": "ACC-068",
+    "target": "SES-068",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:07:00Z",
+    "evidence_id": "EV-0272",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0273",
+    "source": "ACC-068",
+    "target": "DEV-068",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:08:00Z",
+    "evidence_id": "EV-0273",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0274",
+    "source": "ACC-068",
+    "target": "TXN-0060",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:09:00Z",
+    "evidence_id": "EV-0274",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0275",
+    "source": "ACC-069",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:08:00Z",
+    "evidence_id": "EV-0275",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0276",
+    "source": "ACC-069",
+    "target": "SES-069",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:09:00Z",
+    "evidence_id": "EV-0276",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0277",
+    "source": "ACC-069",
+    "target": "DEV-069",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:10:00Z",
+    "evidence_id": "EV-0277",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0278",
+    "source": "ACC-069",
+    "target": "TXN-0061",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:11:00Z",
+    "evidence_id": "EV-0278",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0279",
+    "source": "ACC-070",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:10:00Z",
+    "evidence_id": "EV-0279",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0280",
+    "source": "ACC-070",
+    "target": "SES-070",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:11:00Z",
+    "evidence_id": "EV-0280",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0281",
+    "source": "ACC-070",
+    "target": "DEV-070",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:12:00Z",
+    "evidence_id": "EV-0281",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0282",
+    "source": "ACC-070",
+    "target": "TXN-0062",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:13:00Z",
+    "evidence_id": "EV-0282",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0283",
+    "source": "ACC-071",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:12:00Z",
+    "evidence_id": "EV-0283",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0284",
+    "source": "ACC-071",
+    "target": "SES-071",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:13:00Z",
+    "evidence_id": "EV-0284",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0285",
+    "source": "ACC-071",
+    "target": "DEV-071",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:14:00Z",
+    "evidence_id": "EV-0285",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0286",
+    "source": "ACC-071",
+    "target": "TXN-0063",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:15:00Z",
+    "evidence_id": "EV-0286",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0287",
+    "source": "ACC-072",
+    "target": "IP-RAPID-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:14:00Z",
+    "evidence_id": "EV-0287",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0288",
+    "source": "ACC-072",
+    "target": "SES-072",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:15:00Z",
+    "evidence_id": "EV-0288",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0289",
+    "source": "ACC-072",
+    "target": "DEV-072",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:16:00Z",
+    "evidence_id": "EV-0289",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0290",
+    "source": "ACC-072",
+    "target": "TXN-0064",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:17:00Z",
+    "evidence_id": "EV-0290",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0291",
+    "source": "ACC-057",
+    "target": "DEV-057",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T23:47:00Z",
+    "evidence_id": "EV-0291",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0292",
+    "source": "ACC-057",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T23:48:00Z",
+    "evidence_id": "EV-0292",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0293",
+    "source": "ACC-057",
+    "target": "TXN-0065",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:22:00Z",
+    "evidence_id": "EV-0293",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0294",
+    "source": "ACC-058",
+    "target": "DEV-058",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-25T23:58:00Z",
+    "evidence_id": "EV-0294",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0295",
+    "source": "ACC-058",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T23:59:00Z",
+    "evidence_id": "EV-0295",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0296",
+    "source": "ACC-058",
+    "target": "TXN-0066",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:33:00Z",
+    "evidence_id": "EV-0296",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0297",
+    "source": "ACC-059",
+    "target": "DEV-059",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:09:00Z",
+    "evidence_id": "EV-0297",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0298",
+    "source": "ACC-059",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:10:00Z",
+    "evidence_id": "EV-0298",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0299",
+    "source": "ACC-059",
+    "target": "TXN-0067",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:44:00Z",
+    "evidence_id": "EV-0299",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0300",
+    "source": "ACC-060",
+    "target": "DEV-060",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:20:00Z",
+    "evidence_id": "EV-0300",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0301",
+    "source": "ACC-060",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:21:00Z",
+    "evidence_id": "EV-0301",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0302",
+    "source": "ACC-060",
+    "target": "TXN-0068",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:55:00Z",
+    "evidence_id": "EV-0302",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0303",
+    "source": "ACC-061",
+    "target": "DEV-061",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:31:00Z",
+    "evidence_id": "EV-0303",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0304",
+    "source": "ACC-061",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:32:00Z",
+    "evidence_id": "EV-0304",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0305",
+    "source": "ACC-061",
+    "target": "TXN-0069",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:06:00Z",
+    "evidence_id": "EV-0305",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0306",
+    "source": "ACC-062",
+    "target": "DEV-062",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:42:00Z",
+    "evidence_id": "EV-0306",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0307",
+    "source": "ACC-062",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:43:00Z",
+    "evidence_id": "EV-0307",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0308",
+    "source": "ACC-062",
+    "target": "TXN-0070",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:17:00Z",
+    "evidence_id": "EV-0308",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0309",
+    "source": "ACC-063",
+    "target": "DEV-063",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:53:00Z",
+    "evidence_id": "EV-0309",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0310",
+    "source": "ACC-063",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:54:00Z",
+    "evidence_id": "EV-0310",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0311",
+    "source": "ACC-063",
+    "target": "TXN-0071",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:28:00Z",
+    "evidence_id": "EV-0311",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0312",
+    "source": "ACC-064",
+    "target": "DEV-064",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T01:04:00Z",
+    "evidence_id": "EV-0312",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0313",
+    "source": "ACC-064",
+    "target": "IP-OFFICE-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T01:05:00Z",
+    "evidence_id": "EV-0313",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0314",
+    "source": "ACC-064",
+    "target": "TXN-0072",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:39:00Z",
+    "evidence_id": "EV-0314",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0315",
+    "source": "ACC-073",
+    "target": "DEV-073",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T07:40:00Z",
+    "evidence_id": "EV-0315",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0316",
+    "source": "ACC-073",
+    "target": "IP-073",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T07:41:00Z",
+    "evidence_id": "EV-0316",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0317",
+    "source": "ACC-073",
+    "target": "SES-073",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-26T07:42:00Z",
+    "evidence_id": "EV-0317",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0318",
+    "source": "ACC-073",
+    "target": "TXN-0073",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T07:50:00Z",
+    "evidence_id": "EV-0318",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0319",
+    "source": "ACC-073",
+    "target": "DEV-TAKEOVER-01",
+    "type": "USES_DEVICE",
+    "timestamp": "2026-10-26T08:20:00Z",
+    "evidence_id": "EV-0319",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0320",
+    "source": "ACC-073",
+    "target": "IP-TAKEOVER-01",
+    "type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T08:21:00Z",
+    "evidence_id": "EV-0320",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0321",
+    "source": "ACC-073",
+    "target": "SES-TAKEOVER-01",
+    "type": "HAS_SESSION",
+    "timestamp": "2026-10-26T08:22:00Z",
+    "evidence_id": "EV-0321",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0322",
+    "source": "ACC-073",
+    "target": "TXN-0074",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T08:30:00Z",
+    "evidence_id": "EV-0322",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0323",
+    "source": "ACC-073",
+    "target": "TXN-0075",
+    "type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T08:40:00Z",
+    "evidence_id": "EV-0323",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0324",
+    "source": "TXN-0001",
+    "target": "BEN-001",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T04:18:00Z",
+    "evidence_id": "EV-0006",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0325",
+    "source": "TXN-0002",
+    "target": "BEN-002",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T04:31:00Z",
+    "evidence_id": "EV-0012",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0326",
+    "source": "TXN-0003",
+    "target": "BEN-003",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T04:44:00Z",
+    "evidence_id": "EV-0018",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0327",
+    "source": "TXN-0004",
+    "target": "BEN-004",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T04:57:00Z",
+    "evidence_id": "EV-0024",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0328",
+    "source": "TXN-0005",
+    "target": "BEN-005",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T05:10:00Z",
+    "evidence_id": "EV-0030",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0329",
+    "source": "TXN-0006",
+    "target": "BEN-006",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T05:23:00Z",
+    "evidence_id": "EV-0036",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0330",
+    "source": "TXN-0007",
+    "target": "BEN-007",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T05:36:00Z",
+    "evidence_id": "EV-0042",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0331",
+    "source": "TXN-0008",
+    "target": "BEN-008",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T05:49:00Z",
+    "evidence_id": "EV-0048",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0332",
+    "source": "TXN-0009",
+    "target": "BEN-009",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T06:02:00Z",
+    "evidence_id": "EV-0054",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0333",
+    "source": "TXN-0010",
+    "target": "BEN-010",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T06:15:00Z",
+    "evidence_id": "EV-0060",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0334",
+    "source": "TXN-0011",
+    "target": "BEN-011",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T06:28:00Z",
+    "evidence_id": "EV-0066",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0335",
+    "source": "TXN-0012",
+    "target": "BEN-012",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T06:41:00Z",
+    "evidence_id": "EV-0072",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0336",
+    "source": "TXN-0013",
+    "target": "BEN-013",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T06:54:00Z",
+    "evidence_id": "EV-0078",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0337",
+    "source": "TXN-0014",
+    "target": "BEN-014",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T07:07:00Z",
+    "evidence_id": "EV-0084",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0338",
+    "source": "TXN-0015",
+    "target": "BEN-015",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T07:20:00Z",
+    "evidence_id": "EV-0090",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0339",
+    "source": "TXN-0016",
+    "target": "BEN-016",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T07:33:00Z",
+    "evidence_id": "EV-0096",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0340",
+    "source": "TXN-0017",
+    "target": "BEN-017",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T07:46:00Z",
+    "evidence_id": "EV-0102",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0341",
+    "source": "TXN-0018",
+    "target": "BEN-018",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T07:59:00Z",
+    "evidence_id": "EV-0108",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0342",
+    "source": "TXN-0019",
+    "target": "BEN-019",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T08:12:00Z",
+    "evidence_id": "EV-0114",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0343",
+    "source": "TXN-0020",
+    "target": "BEN-020",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T08:25:00Z",
+    "evidence_id": "EV-0120",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0344",
+    "source": "TXN-0021",
+    "target": "BEN-021",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T08:38:00Z",
+    "evidence_id": "EV-0126",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0345",
+    "source": "TXN-0022",
+    "target": "BEN-022",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T08:51:00Z",
+    "evidence_id": "EV-0132",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0346",
+    "source": "TXN-0023",
+    "target": "BEN-023",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T09:04:00Z",
+    "evidence_id": "EV-0138",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0347",
+    "source": "TXN-0024",
+    "target": "BEN-024",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T09:17:00Z",
+    "evidence_id": "EV-0144",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0348",
+    "source": "TXN-0025",
+    "target": "BEN-025",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T09:30:00Z",
+    "evidence_id": "EV-0150",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0349",
+    "source": "TXN-0026",
+    "target": "BEN-026",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T09:43:00Z",
+    "evidence_id": "EV-0156",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0350",
+    "source": "TXN-0027",
+    "target": "BEN-027",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T09:56:00Z",
+    "evidence_id": "EV-0162",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0351",
+    "source": "TXN-0028",
+    "target": "BEN-028",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T10:09:00Z",
+    "evidence_id": "EV-0168",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0352",
+    "source": "TXN-0029",
+    "target": "BEN-029",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T10:22:00Z",
+    "evidence_id": "EV-0174",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0353",
+    "source": "TXN-0030",
+    "target": "BEN-030",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T10:35:00Z",
+    "evidence_id": "EV-0180",
+    "scenario_id": "SCN-01"
+  },
+  {
+    "id": "REL-0354",
+    "source": "TXN-0031",
+    "target": "BEN-031",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T21:27:00Z",
+    "evidence_id": "EV-0183",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0355",
+    "source": "TXN-0032",
+    "target": "BEN-032",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T21:44:00Z",
+    "evidence_id": "EV-0186",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0356",
+    "source": "TXN-0033",
+    "target": "BEN-033",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T22:01:00Z",
+    "evidence_id": "EV-0189",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0357",
+    "source": "TXN-0034",
+    "target": "BEN-034",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T22:18:00Z",
+    "evidence_id": "EV-0192",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0358",
+    "source": "TXN-0035",
+    "target": "BEN-035",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T22:35:00Z",
+    "evidence_id": "EV-0195",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0359",
+    "source": "TXN-0036",
+    "target": "BEN-036",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T22:52:00Z",
+    "evidence_id": "EV-0198",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0360",
+    "source": "TXN-0037",
+    "target": "BEN-037",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T23:09:00Z",
+    "evidence_id": "EV-0201",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0361",
+    "source": "TXN-0038",
+    "target": "BEN-038",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T23:26:00Z",
+    "evidence_id": "EV-0204",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0362",
+    "source": "TXN-0039",
+    "target": "BEN-039",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T23:43:00Z",
+    "evidence_id": "EV-0207",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0363",
+    "source": "TXN-0040",
+    "target": "BEN-040",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T00:00:00Z",
+    "evidence_id": "EV-0210",
+    "scenario_id": "SCN-02"
+  },
+  {
+    "id": "REL-0364",
+    "source": "TXN-0041",
+    "target": "BEN-041",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "evidence_id": "EV-0214",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0365",
+    "source": "TXN-0042",
+    "target": "BEN-042",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "evidence_id": "EV-0218",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0366",
+    "source": "TXN-0043",
+    "target": "BEN-043",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "evidence_id": "EV-0222",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0367",
+    "source": "TXN-0044",
+    "target": "BEN-044",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "evidence_id": "EV-0226",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0368",
+    "source": "TXN-0045",
+    "target": "BEN-045",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "evidence_id": "EV-0230",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0369",
+    "source": "TXN-0046",
+    "target": "BEN-046",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "evidence_id": "EV-0234",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0370",
+    "source": "TXN-0047",
+    "target": "BEN-047",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:49:00Z",
+    "evidence_id": "EV-0238",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0371",
+    "source": "TXN-0048",
+    "target": "BEN-048",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-24T20:50:00Z",
+    "evidence_id": "EV-0242",
+    "scenario_id": "SCN-03"
+  },
+  {
+    "id": "REL-0372",
+    "source": "TXN-0049",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:01:00Z",
+    "evidence_id": "EV-0244",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0373",
+    "source": "TXN-0050",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:04:00Z",
+    "evidence_id": "EV-0246",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0374",
+    "source": "TXN-0051",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:07:00Z",
+    "evidence_id": "EV-0248",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0375",
+    "source": "TXN-0052",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:10:00Z",
+    "evidence_id": "EV-0250",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0376",
+    "source": "TXN-0053",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:13:00Z",
+    "evidence_id": "EV-0252",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0377",
+    "source": "TXN-0054",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:16:00Z",
+    "evidence_id": "EV-0254",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0378",
+    "source": "TXN-0055",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:19:00Z",
+    "evidence_id": "EV-0256",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0379",
+    "source": "TXN-0056",
+    "target": "BEN-COMMON-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T05:22:00Z",
+    "evidence_id": "EV-0258",
+    "scenario_id": "SCN-04"
+  },
+  {
+    "id": "REL-0380",
+    "source": "TXN-0057",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:03:00Z",
+    "evidence_id": "EV-0262",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0381",
+    "source": "TXN-0058",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:05:00Z",
+    "evidence_id": "EV-0266",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0382",
+    "source": "TXN-0059",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:07:00Z",
+    "evidence_id": "EV-0270",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0383",
+    "source": "TXN-0060",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:09:00Z",
+    "evidence_id": "EV-0274",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0384",
+    "source": "TXN-0061",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:11:00Z",
+    "evidence_id": "EV-0278",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0385",
+    "source": "TXN-0062",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:13:00Z",
+    "evidence_id": "EV-0282",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0386",
+    "source": "TXN-0063",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:15:00Z",
+    "evidence_id": "EV-0286",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0387",
+    "source": "TXN-0064",
+    "target": "BEN-RAPID-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-25T10:17:00Z",
+    "evidence_id": "EV-0290",
+    "scenario_id": "SCN-05"
+  },
+  {
+    "id": "REL-0388",
+    "source": "TXN-0065",
+    "target": "BEN-057",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T00:22:00Z",
+    "evidence_id": "EV-0293",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0389",
+    "source": "TXN-0066",
+    "target": "BEN-058",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T00:33:00Z",
+    "evidence_id": "EV-0296",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0390",
+    "source": "TXN-0067",
+    "target": "BEN-059",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T00:44:00Z",
+    "evidence_id": "EV-0299",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0391",
+    "source": "TXN-0068",
+    "target": "BEN-060",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T00:55:00Z",
+    "evidence_id": "EV-0302",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0392",
+    "source": "TXN-0069",
+    "target": "BEN-061",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T01:06:00Z",
+    "evidence_id": "EV-0305",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0393",
+    "source": "TXN-0070",
+    "target": "BEN-062",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T01:17:00Z",
+    "evidence_id": "EV-0308",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0394",
+    "source": "TXN-0071",
+    "target": "BEN-063",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T01:28:00Z",
+    "evidence_id": "EV-0311",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0395",
+    "source": "TXN-0072",
+    "target": "BEN-064",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T01:39:00Z",
+    "evidence_id": "EV-0314",
+    "scenario_id": "SCN-06"
+  },
+  {
+    "id": "REL-0396",
+    "source": "TXN-0073",
+    "target": "BEN-073",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T07:50:00Z",
+    "evidence_id": "EV-0318",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0397",
+    "source": "TXN-0074",
+    "target": "BEN-TAKEOVER-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T08:30:00Z",
+    "evidence_id": "EV-0322",
+    "scenario_id": "SCN-07"
+  },
+  {
+    "id": "REL-0398",
+    "source": "TXN-0075",
+    "target": "BEN-TAKEOVER-01",
+    "type": "SENT_TO",
+    "timestamp": "2026-10-26T08:40:00Z",
+    "evidence_id": "EV-0323",
+    "scenario_id": "SCN-07"
+  }
+]

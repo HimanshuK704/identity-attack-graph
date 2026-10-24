@@ -1,0 +1,37 @@
+{
+  "entity_count": 419,
+  "event_count": 323,
+  "relationship_count": 398,
+  "entity_counts_by_type": {
+    "ACCOUNT": 73,
+    "BENEFICIARY": 60,
+    "DEVICE": 59,
+    "EMAIL": 30,
+    "IP_ADDRESS": 44,
+    "PHONE": 30,
+    "SESSION": 48,
+    "TRANSACTION": 75
+  },
+  "event_counts_by_type": {
+    "HAS_SESSION": 48,
+    "INITIATED_TRANSACTION": 75,
+    "LOGGED_IN_FROM": 74,
+    "OWNS_EMAIL": 30,
+    "OWNS_PHONE": 30,
+    "USES_DEVICE": 66
+  },
+  "scenario_counts": {
+    "SCN-01": 180,
+    "SCN-02": 30,
+    "SCN-03": 32,
+    "SCN-04": 16,
+    "SCN-05": 32,
+    "SCN-06": 24,
+    "SCN-07": 9
+  },
+  "ground_truth_counts": {
+    "AMBIGUOUS": 24,
+    "BENIGN": 214,
+    "PLANTED_SUSPICIOUS": 85
+  }
+}

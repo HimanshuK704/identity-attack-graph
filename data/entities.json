@@ -1,0 +1,4219 @@
+[
+  {
+    "id": "ACC-001",
+    "type": "ACCOUNT",
+    "label": "Account 001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-001",
+    "type": "DEVICE",
+    "label": "Device 001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-001",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-001",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-001",
+    "type": "SESSION",
+    "label": "Session 001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-001",
+    "type": "PHONE",
+    "label": "Synthetic phone 001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-001",
+    "type": "EMAIL",
+    "label": "user001@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-002",
+    "type": "ACCOUNT",
+    "label": "Account 002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-002",
+    "type": "DEVICE",
+    "label": "Device 002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-002",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-002",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-002",
+    "type": "SESSION",
+    "label": "Session 002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-002",
+    "type": "PHONE",
+    "label": "Synthetic phone 002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-002",
+    "type": "EMAIL",
+    "label": "user002@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-003",
+    "type": "ACCOUNT",
+    "label": "Account 003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-003",
+    "type": "DEVICE",
+    "label": "Device 003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-003",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-003",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-003",
+    "type": "SESSION",
+    "label": "Session 003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-003",
+    "type": "PHONE",
+    "label": "Synthetic phone 003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-003",
+    "type": "EMAIL",
+    "label": "user003@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-004",
+    "type": "ACCOUNT",
+    "label": "Account 004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-004",
+    "type": "DEVICE",
+    "label": "Device 004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-004",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-004",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-004",
+    "type": "SESSION",
+    "label": "Session 004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-004",
+    "type": "PHONE",
+    "label": "Synthetic phone 004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-004",
+    "type": "EMAIL",
+    "label": "user004@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-005",
+    "type": "ACCOUNT",
+    "label": "Account 005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-005",
+    "type": "DEVICE",
+    "label": "Device 005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-005",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-005",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-005",
+    "type": "SESSION",
+    "label": "Session 005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-005",
+    "type": "PHONE",
+    "label": "Synthetic phone 005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-005",
+    "type": "EMAIL",
+    "label": "user005@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-006",
+    "type": "ACCOUNT",
+    "label": "Account 006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-006",
+    "type": "DEVICE",
+    "label": "Device 006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-006",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-006",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-006",
+    "type": "SESSION",
+    "label": "Session 006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-006",
+    "type": "PHONE",
+    "label": "Synthetic phone 006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-006",
+    "type": "EMAIL",
+    "label": "user006@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-007",
+    "type": "ACCOUNT",
+    "label": "Account 007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-007",
+    "type": "DEVICE",
+    "label": "Device 007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-007",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-007",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-007",
+    "type": "SESSION",
+    "label": "Session 007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-007",
+    "type": "PHONE",
+    "label": "Synthetic phone 007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-007",
+    "type": "EMAIL",
+    "label": "user007@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-008",
+    "type": "ACCOUNT",
+    "label": "Account 008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-008",
+    "type": "DEVICE",
+    "label": "Device 008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-008",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-008",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-008",
+    "type": "SESSION",
+    "label": "Session 008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-008",
+    "type": "PHONE",
+    "label": "Synthetic phone 008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-008",
+    "type": "EMAIL",
+    "label": "user008@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-009",
+    "type": "ACCOUNT",
+    "label": "Account 009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-009",
+    "type": "DEVICE",
+    "label": "Device 009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-009",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-009",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-009",
+    "type": "SESSION",
+    "label": "Session 009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-009",
+    "type": "PHONE",
+    "label": "Synthetic phone 009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-009",
+    "type": "EMAIL",
+    "label": "user009@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-010",
+    "type": "ACCOUNT",
+    "label": "Account 010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-010",
+    "type": "DEVICE",
+    "label": "Device 010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-010",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-010",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-010",
+    "type": "SESSION",
+    "label": "Session 010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-010",
+    "type": "PHONE",
+    "label": "Synthetic phone 010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-010",
+    "type": "EMAIL",
+    "label": "user010@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-011",
+    "type": "ACCOUNT",
+    "label": "Account 011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-011",
+    "type": "DEVICE",
+    "label": "Device 011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-011",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-011",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-011",
+    "type": "SESSION",
+    "label": "Session 011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-011",
+    "type": "PHONE",
+    "label": "Synthetic phone 011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-011",
+    "type": "EMAIL",
+    "label": "user011@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-012",
+    "type": "ACCOUNT",
+    "label": "Account 012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-012",
+    "type": "DEVICE",
+    "label": "Device 012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-012",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-012",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-012",
+    "type": "SESSION",
+    "label": "Session 012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-012",
+    "type": "PHONE",
+    "label": "Synthetic phone 012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-012",
+    "type": "EMAIL",
+    "label": "user012@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-013",
+    "type": "ACCOUNT",
+    "label": "Account 013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-013",
+    "type": "DEVICE",
+    "label": "Device 013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-013",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-013",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-013",
+    "type": "SESSION",
+    "label": "Session 013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-013",
+    "type": "PHONE",
+    "label": "Synthetic phone 013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-013",
+    "type": "EMAIL",
+    "label": "user013@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-014",
+    "type": "ACCOUNT",
+    "label": "Account 014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-014",
+    "type": "DEVICE",
+    "label": "Device 014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-014",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-014",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-014",
+    "type": "SESSION",
+    "label": "Session 014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-014",
+    "type": "PHONE",
+    "label": "Synthetic phone 014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-014",
+    "type": "EMAIL",
+    "label": "user014@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-015",
+    "type": "ACCOUNT",
+    "label": "Account 015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-015",
+    "type": "DEVICE",
+    "label": "Device 015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-015",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-015",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-015",
+    "type": "SESSION",
+    "label": "Session 015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-015",
+    "type": "PHONE",
+    "label": "Synthetic phone 015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-015",
+    "type": "EMAIL",
+    "label": "user015@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-016",
+    "type": "ACCOUNT",
+    "label": "Account 016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-016",
+    "type": "DEVICE",
+    "label": "Device 016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-016",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-016",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-016",
+    "type": "SESSION",
+    "label": "Session 016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-016",
+    "type": "PHONE",
+    "label": "Synthetic phone 016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-016",
+    "type": "EMAIL",
+    "label": "user016@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-017",
+    "type": "ACCOUNT",
+    "label": "Account 017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-017",
+    "type": "DEVICE",
+    "label": "Device 017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-017",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-017",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-017",
+    "type": "SESSION",
+    "label": "Session 017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-017",
+    "type": "PHONE",
+    "label": "Synthetic phone 017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-017",
+    "type": "EMAIL",
+    "label": "user017@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-018",
+    "type": "ACCOUNT",
+    "label": "Account 018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-018",
+    "type": "DEVICE",
+    "label": "Device 018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-018",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-018",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-018",
+    "type": "SESSION",
+    "label": "Session 018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-018",
+    "type": "PHONE",
+    "label": "Synthetic phone 018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-018",
+    "type": "EMAIL",
+    "label": "user018@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-019",
+    "type": "ACCOUNT",
+    "label": "Account 019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-019",
+    "type": "DEVICE",
+    "label": "Device 019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-019",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-019",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-019",
+    "type": "SESSION",
+    "label": "Session 019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-019",
+    "type": "PHONE",
+    "label": "Synthetic phone 019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-019",
+    "type": "EMAIL",
+    "label": "user019@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-020",
+    "type": "ACCOUNT",
+    "label": "Account 020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-020",
+    "type": "DEVICE",
+    "label": "Device 020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-020",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-020",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-020",
+    "type": "SESSION",
+    "label": "Session 020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-020",
+    "type": "PHONE",
+    "label": "Synthetic phone 020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-020",
+    "type": "EMAIL",
+    "label": "user020@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-021",
+    "type": "ACCOUNT",
+    "label": "Account 021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-021",
+    "type": "DEVICE",
+    "label": "Device 021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-021",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-021",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-021",
+    "type": "SESSION",
+    "label": "Session 021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-021",
+    "type": "PHONE",
+    "label": "Synthetic phone 021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-021",
+    "type": "EMAIL",
+    "label": "user021@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-022",
+    "type": "ACCOUNT",
+    "label": "Account 022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-022",
+    "type": "DEVICE",
+    "label": "Device 022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-022",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-022",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-022",
+    "type": "SESSION",
+    "label": "Session 022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-022",
+    "type": "PHONE",
+    "label": "Synthetic phone 022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-022",
+    "type": "EMAIL",
+    "label": "user022@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-023",
+    "type": "ACCOUNT",
+    "label": "Account 023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-023",
+    "type": "DEVICE",
+    "label": "Device 023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-023",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-023",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-023",
+    "type": "SESSION",
+    "label": "Session 023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-023",
+    "type": "PHONE",
+    "label": "Synthetic phone 023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-023",
+    "type": "EMAIL",
+    "label": "user023@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-024",
+    "type": "ACCOUNT",
+    "label": "Account 024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-024",
+    "type": "DEVICE",
+    "label": "Device 024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-024",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-024",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-024",
+    "type": "SESSION",
+    "label": "Session 024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-024",
+    "type": "PHONE",
+    "label": "Synthetic phone 024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-024",
+    "type": "EMAIL",
+    "label": "user024@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-025",
+    "type": "ACCOUNT",
+    "label": "Account 025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-025",
+    "type": "DEVICE",
+    "label": "Device 025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-025",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-025",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-025",
+    "type": "SESSION",
+    "label": "Session 025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-025",
+    "type": "PHONE",
+    "label": "Synthetic phone 025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-025",
+    "type": "EMAIL",
+    "label": "user025@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-026",
+    "type": "ACCOUNT",
+    "label": "Account 026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-026",
+    "type": "DEVICE",
+    "label": "Device 026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "IP-026",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-026",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-026",
+    "type": "SESSION",
+    "label": "Session 026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-026",
+    "type": "PHONE",
+    "label": "Synthetic phone 026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-026",
+    "type": "EMAIL",
+    "label": "user026@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-027",
+    "type": "ACCOUNT",
+    "label": "Account 027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-027",
+    "type": "DEVICE",
+    "label": "Device 027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-027",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-027",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-027",
+    "type": "SESSION",
+    "label": "Session 027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-027",
+    "type": "PHONE",
+    "label": "Synthetic phone 027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-027",
+    "type": "EMAIL",
+    "label": "user027@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-028",
+    "type": "ACCOUNT",
+    "label": "Account 028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-028",
+    "type": "DEVICE",
+    "label": "Device 028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-028",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-028",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-028",
+    "type": "SESSION",
+    "label": "Session 028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-028",
+    "type": "PHONE",
+    "label": "Synthetic phone 028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-028",
+    "type": "EMAIL",
+    "label": "user028@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-029",
+    "type": "ACCOUNT",
+    "label": "Account 029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-029",
+    "type": "DEVICE",
+    "label": "Device 029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-029",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-029",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-029",
+    "type": "SESSION",
+    "label": "Session 029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-029",
+    "type": "PHONE",
+    "label": "Synthetic phone 029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-029",
+    "type": "EMAIL",
+    "label": "user029@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "ACC-030",
+    "type": "ACCOUNT",
+    "label": "Account 030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "DEV-030",
+    "type": "DEVICE",
+    "label": "Device 030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "tablet"
+    }
+  },
+  {
+    "id": "IP-030",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-030",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "SES-030",
+    "type": "SESSION",
+    "label": "Session 030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "PH-030",
+    "type": "PHONE",
+    "label": "Synthetic phone 030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "EM-030",
+    "type": "EMAIL",
+    "label": "user030@example.test",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "IP-SHARED-01",
+    "type": "IP_ADDRESS",
+    "label": "Campus public IP",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "campus_nat"
+    }
+  },
+  {
+    "id": "ACC-031",
+    "type": "ACCOUNT",
+    "label": "Account 031",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-031",
+    "type": "DEVICE",
+    "label": "Device 031",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-031",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 031",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-032",
+    "type": "ACCOUNT",
+    "label": "Account 032",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-032",
+    "type": "DEVICE",
+    "label": "Device 032",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-032",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 032",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-033",
+    "type": "ACCOUNT",
+    "label": "Account 033",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-033",
+    "type": "DEVICE",
+    "label": "Device 033",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-033",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 033",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-034",
+    "type": "ACCOUNT",
+    "label": "Account 034",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-034",
+    "type": "DEVICE",
+    "label": "Device 034",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-034",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 034",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-035",
+    "type": "ACCOUNT",
+    "label": "Account 035",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-035",
+    "type": "DEVICE",
+    "label": "Device 035",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-035",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 035",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-036",
+    "type": "ACCOUNT",
+    "label": "Account 036",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-036",
+    "type": "DEVICE",
+    "label": "Device 036",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-036",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 036",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-037",
+    "type": "ACCOUNT",
+    "label": "Account 037",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-037",
+    "type": "DEVICE",
+    "label": "Device 037",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-037",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 037",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-038",
+    "type": "ACCOUNT",
+    "label": "Account 038",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-038",
+    "type": "DEVICE",
+    "label": "Device 038",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-038",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 038",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-039",
+    "type": "ACCOUNT",
+    "label": "Account 039",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-039",
+    "type": "DEVICE",
+    "label": "Device 039",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-039",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 039",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-040",
+    "type": "ACCOUNT",
+    "label": "Account 040",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "segment": "student"
+    }
+  },
+  {
+    "id": "DEV-040",
+    "type": "DEVICE",
+    "label": "Device 040",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "BEN-040",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 040",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "DEV-ATTACK-01",
+    "type": "DEVICE",
+    "label": "Shared synthetic device",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "IP-ATTACK-01",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic hosting IP",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "hosting"
+    }
+  },
+  {
+    "id": "ACC-041",
+    "type": "ACCOUNT",
+    "label": "Account 041",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-041",
+    "type": "SESSION",
+    "label": "Session 041",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-041",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 041",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-042",
+    "type": "ACCOUNT",
+    "label": "Account 042",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-042",
+    "type": "SESSION",
+    "label": "Session 042",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-042",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 042",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-043",
+    "type": "ACCOUNT",
+    "label": "Account 043",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-043",
+    "type": "SESSION",
+    "label": "Session 043",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-043",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 043",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-044",
+    "type": "ACCOUNT",
+    "label": "Account 044",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-044",
+    "type": "SESSION",
+    "label": "Session 044",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-044",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 044",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-045",
+    "type": "ACCOUNT",
+    "label": "Account 045",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-045",
+    "type": "SESSION",
+    "label": "Session 045",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-045",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 045",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-046",
+    "type": "ACCOUNT",
+    "label": "Account 046",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-046",
+    "type": "SESSION",
+    "label": "Session 046",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-046",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 046",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-047",
+    "type": "ACCOUNT",
+    "label": "Account 047",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-047",
+    "type": "SESSION",
+    "label": "Session 047",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-047",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 047",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "ACC-048",
+    "type": "ACCOUNT",
+    "label": "Account 048",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-048",
+    "type": "SESSION",
+    "label": "Session 048",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "BEN-048",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 048",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "BEN-COMMON-01",
+    "type": "BENEFICIARY",
+    "label": "Common synthetic beneficiary",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "high_concentration_demo"
+    }
+  },
+  {
+    "id": "ACC-049",
+    "type": "ACCOUNT",
+    "label": "Account 049",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-049",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 049",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-050",
+    "type": "ACCOUNT",
+    "label": "Account 050",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-050",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 050",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-051",
+    "type": "ACCOUNT",
+    "label": "Account 051",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-051",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 051",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-052",
+    "type": "ACCOUNT",
+    "label": "Account 052",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-052",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 052",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-053",
+    "type": "ACCOUNT",
+    "label": "Account 053",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-053",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 053",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-054",
+    "type": "ACCOUNT",
+    "label": "Account 054",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-054",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 054",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-055",
+    "type": "ACCOUNT",
+    "label": "Account 055",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-055",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 055",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "ACC-056",
+    "type": "ACCOUNT",
+    "label": "Account 056",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "IP-056",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic IP 056",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "BEN-RAPID-01",
+    "type": "BENEFICIARY",
+    "label": "Rapid-flow synthetic beneficiary",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "IP-RAPID-01",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic rapid-activity IP",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "hosting"
+    }
+  },
+  {
+    "id": "ACC-065",
+    "type": "ACCOUNT",
+    "label": "Account 065",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-065",
+    "type": "SESSION",
+    "label": "Session 065",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-065",
+    "type": "DEVICE",
+    "label": "Device 065",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-066",
+    "type": "ACCOUNT",
+    "label": "Account 066",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-066",
+    "type": "SESSION",
+    "label": "Session 066",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-066",
+    "type": "DEVICE",
+    "label": "Device 066",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-067",
+    "type": "ACCOUNT",
+    "label": "Account 067",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-067",
+    "type": "SESSION",
+    "label": "Session 067",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-067",
+    "type": "DEVICE",
+    "label": "Device 067",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-068",
+    "type": "ACCOUNT",
+    "label": "Account 068",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-068",
+    "type": "SESSION",
+    "label": "Session 068",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-068",
+    "type": "DEVICE",
+    "label": "Device 068",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-069",
+    "type": "ACCOUNT",
+    "label": "Account 069",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-069",
+    "type": "SESSION",
+    "label": "Session 069",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-069",
+    "type": "DEVICE",
+    "label": "Device 069",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-070",
+    "type": "ACCOUNT",
+    "label": "Account 070",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-070",
+    "type": "SESSION",
+    "label": "Session 070",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-070",
+    "type": "DEVICE",
+    "label": "Device 070",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-071",
+    "type": "ACCOUNT",
+    "label": "Account 071",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-071",
+    "type": "SESSION",
+    "label": "Session 071",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-071",
+    "type": "DEVICE",
+    "label": "Device 071",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "ACC-072",
+    "type": "ACCOUNT",
+    "label": "Account 072",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "segment": "retail"
+    }
+  },
+  {
+    "id": "SES-072",
+    "type": "SESSION",
+    "label": "Session 072",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "status": "completed"
+    }
+  },
+  {
+    "id": "DEV-072",
+    "type": "DEVICE",
+    "label": "Device 072",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "emulated_mobile"
+    }
+  },
+  {
+    "id": "IP-OFFICE-01",
+    "type": "IP_ADDRESS",
+    "label": "Synthetic office NAT",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "network_type": "business_nat"
+    }
+  },
+  {
+    "id": "ACC-057",
+    "type": "ACCOUNT",
+    "label": "Account 057",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-057",
+    "type": "DEVICE",
+    "label": "Device 057",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-057",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 057",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-058",
+    "type": "ACCOUNT",
+    "label": "Account 058",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-058",
+    "type": "DEVICE",
+    "label": "Device 058",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-058",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 058",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-059",
+    "type": "ACCOUNT",
+    "label": "Account 059",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-059",
+    "type": "DEVICE",
+    "label": "Device 059",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-059",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 059",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-060",
+    "type": "ACCOUNT",
+    "label": "Account 060",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-060",
+    "type": "DEVICE",
+    "label": "Device 060",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-060",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 060",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-061",
+    "type": "ACCOUNT",
+    "label": "Account 061",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-061",
+    "type": "DEVICE",
+    "label": "Device 061",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-061",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 061",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-062",
+    "type": "ACCOUNT",
+    "label": "Account 062",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-062",
+    "type": "DEVICE",
+    "label": "Device 062",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-062",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 062",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-063",
+    "type": "ACCOUNT",
+    "label": "Account 063",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-063",
+    "type": "DEVICE",
+    "label": "Device 063",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-063",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 063",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "ACC-064",
+    "type": "ACCOUNT",
+    "label": "Account 064",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "small_business"
+    }
+  },
+  {
+    "id": "DEV-064",
+    "type": "DEVICE",
+    "label": "Device 064",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "device_family": "desktop"
+    }
+  },
+  {
+    "id": "BEN-064",
+    "type": "BENEFICIARY",
+    "label": "Beneficiary 064",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "kind": "business"
+    }
+  },
+  {
+    "id": "DEV-073",
+    "type": "DEVICE",
+    "label": "Known device 073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "device_family": "mobile"
+    }
+  },
+  {
+    "id": "IP-073",
+    "type": "IP_ADDRESS",
+    "label": "Known residential IP 073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "network_type": "residential"
+    }
+  },
+  {
+    "id": "SES-073",
+    "type": "SESSION",
+    "label": "Established session 073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "metadata": {}
+  },
+  {
+    "id": "BEN-073",
+    "type": "BENEFICIARY",
+    "label": "Known beneficiary 073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "kind": "personal"
+    }
+  },
+  {
+    "id": "ACC-073",
+    "type": "ACCOUNT",
+    "label": "Account 073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "segment": "retail",
+      "account_tenure": "established"
+    }
+  },
+  {
+    "id": "DEV-TAKEOVER-01",
+    "type": "DEVICE",
+    "label": "Unfamiliar device",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "device_family": "unrecognized_mobile"
+    }
+  },
+  {
+    "id": "IP-TAKEOVER-01",
+    "type": "IP_ADDRESS",
+    "label": "Unfamiliar IP",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "network_type": "hosting"
+    }
+  },
+  {
+    "id": "SES-TAKEOVER-01",
+    "type": "SESSION",
+    "label": "Unfamiliar session",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {}
+  },
+  {
+    "id": "BEN-TAKEOVER-01",
+    "type": "BENEFICIARY",
+    "label": "New beneficiary",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "kind": "new_payee"
+    }
+  },
+  {
+    "id": "TXN-0001",
+    "type": "TRANSACTION",
+    "label": "Transaction 0001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 99.33,
+      "currency": "USD",
+      "timestamp": "2026-10-24T04:18:00Z"
+    }
+  },
+  {
+    "id": "TXN-0002",
+    "type": "TRANSACTION",
+    "label": "Transaction 0002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 165.05,
+      "currency": "USD",
+      "timestamp": "2026-10-24T04:31:00Z"
+    }
+  },
+  {
+    "id": "TXN-0003",
+    "type": "TRANSACTION",
+    "label": "Transaction 0003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 48.27,
+      "currency": "USD",
+      "timestamp": "2026-10-24T04:44:00Z"
+    }
+  },
+  {
+    "id": "TXN-0004",
+    "type": "TRANSACTION",
+    "label": "Transaction 0004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 30.82,
+      "currency": "USD",
+      "timestamp": "2026-10-24T04:57:00Z"
+    }
+  },
+  {
+    "id": "TXN-0005",
+    "type": "TRANSACTION",
+    "label": "Transaction 0005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 42.96,
+      "currency": "USD",
+      "timestamp": "2026-10-24T05:10:00Z"
+    }
+  },
+  {
+    "id": "TXN-0006",
+    "type": "TRANSACTION",
+    "label": "Transaction 0006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 127.8,
+      "currency": "USD",
+      "timestamp": "2026-10-24T05:23:00Z"
+    }
+  },
+  {
+    "id": "TXN-0007",
+    "type": "TRANSACTION",
+    "label": "Transaction 0007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 34.83,
+      "currency": "USD",
+      "timestamp": "2026-10-24T05:36:00Z"
+    }
+  },
+  {
+    "id": "TXN-0008",
+    "type": "TRANSACTION",
+    "label": "Transaction 0008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 138.48,
+      "currency": "USD",
+      "timestamp": "2026-10-24T05:49:00Z"
+    }
+  },
+  {
+    "id": "TXN-0009",
+    "type": "TRANSACTION",
+    "label": "Transaction 0009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 175.66,
+      "currency": "USD",
+      "timestamp": "2026-10-24T06:02:00Z"
+    }
+  },
+  {
+    "id": "TXN-0010",
+    "type": "TRANSACTION",
+    "label": "Transaction 0010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 82.26,
+      "currency": "USD",
+      "timestamp": "2026-10-24T06:15:00Z"
+    }
+  },
+  {
+    "id": "TXN-0011",
+    "type": "TRANSACTION",
+    "label": "Transaction 0011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 35.97,
+      "currency": "USD",
+      "timestamp": "2026-10-24T06:28:00Z"
+    }
+  },
+  {
+    "id": "TXN-0012",
+    "type": "TRANSACTION",
+    "label": "Transaction 0012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 8.37,
+      "currency": "USD",
+      "timestamp": "2026-10-24T06:41:00Z"
+    }
+  },
+  {
+    "id": "TXN-0013",
+    "type": "TRANSACTION",
+    "label": "Transaction 0013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 64.01,
+      "currency": "USD",
+      "timestamp": "2026-10-24T06:54:00Z"
+    }
+  },
+  {
+    "id": "TXN-0014",
+    "type": "TRANSACTION",
+    "label": "Transaction 0014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 33.64,
+      "currency": "USD",
+      "timestamp": "2026-10-24T07:07:00Z"
+    }
+  },
+  {
+    "id": "TXN-0015",
+    "type": "TRANSACTION",
+    "label": "Transaction 0015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 53.29,
+      "currency": "USD",
+      "timestamp": "2026-10-24T07:20:00Z"
+    }
+  },
+  {
+    "id": "TXN-0016",
+    "type": "TRANSACTION",
+    "label": "Transaction 0016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 46.79,
+      "currency": "USD",
+      "timestamp": "2026-10-24T07:33:00Z"
+    }
+  },
+  {
+    "id": "TXN-0017",
+    "type": "TRANSACTION",
+    "label": "Transaction 0017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 59.8,
+      "currency": "USD",
+      "timestamp": "2026-10-24T07:46:00Z"
+    }
+  },
+  {
+    "id": "TXN-0018",
+    "type": "TRANSACTION",
+    "label": "Transaction 0018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 77.95,
+      "currency": "USD",
+      "timestamp": "2026-10-24T07:59:00Z"
+    }
+  },
+  {
+    "id": "TXN-0019",
+    "type": "TRANSACTION",
+    "label": "Transaction 0019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 102.38,
+      "currency": "USD",
+      "timestamp": "2026-10-24T08:12:00Z"
+    }
+  },
+  {
+    "id": "TXN-0020",
+    "type": "TRANSACTION",
+    "label": "Transaction 0020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 47.82,
+      "currency": "USD",
+      "timestamp": "2026-10-24T08:25:00Z"
+    }
+  },
+  {
+    "id": "TXN-0021",
+    "type": "TRANSACTION",
+    "label": "Transaction 0021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 202.92,
+      "currency": "USD",
+      "timestamp": "2026-10-24T08:38:00Z"
+    }
+  },
+  {
+    "id": "TXN-0022",
+    "type": "TRANSACTION",
+    "label": "Transaction 0022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 113.38,
+      "currency": "USD",
+      "timestamp": "2026-10-24T08:51:00Z"
+    }
+  },
+  {
+    "id": "TXN-0023",
+    "type": "TRANSACTION",
+    "label": "Transaction 0023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 103.58,
+      "currency": "USD",
+      "timestamp": "2026-10-24T09:04:00Z"
+    }
+  },
+  {
+    "id": "TXN-0024",
+    "type": "TRANSACTION",
+    "label": "Transaction 0024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 53.01,
+      "currency": "USD",
+      "timestamp": "2026-10-24T09:17:00Z"
+    }
+  },
+  {
+    "id": "TXN-0025",
+    "type": "TRANSACTION",
+    "label": "Transaction 0025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 41.36,
+      "currency": "USD",
+      "timestamp": "2026-10-24T09:30:00Z"
+    }
+  },
+  {
+    "id": "TXN-0026",
+    "type": "TRANSACTION",
+    "label": "Transaction 0026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 157.15,
+      "currency": "USD",
+      "timestamp": "2026-10-24T09:43:00Z"
+    }
+  },
+  {
+    "id": "TXN-0027",
+    "type": "TRANSACTION",
+    "label": "Transaction 0027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 20.34,
+      "currency": "USD",
+      "timestamp": "2026-10-24T09:56:00Z"
+    }
+  },
+  {
+    "id": "TXN-0028",
+    "type": "TRANSACTION",
+    "label": "Transaction 0028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 149.32,
+      "currency": "USD",
+      "timestamp": "2026-10-24T10:09:00Z"
+    }
+  },
+  {
+    "id": "TXN-0029",
+    "type": "TRANSACTION",
+    "label": "Transaction 0029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 63.63,
+      "currency": "USD",
+      "timestamp": "2026-10-24T10:22:00Z"
+    }
+  },
+  {
+    "id": "TXN-0030",
+    "type": "TRANSACTION",
+    "label": "Transaction 0030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 144.17,
+      "currency": "USD",
+      "timestamp": "2026-10-24T10:35:00Z"
+    }
+  },
+  {
+    "id": "TXN-0031",
+    "type": "TRANSACTION",
+    "label": "Transaction 0031",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 33.89,
+      "currency": "USD",
+      "timestamp": "2026-10-24T21:27:00Z"
+    }
+  },
+  {
+    "id": "TXN-0032",
+    "type": "TRANSACTION",
+    "label": "Transaction 0032",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 39.23,
+      "currency": "USD",
+      "timestamp": "2026-10-24T21:44:00Z"
+    }
+  },
+  {
+    "id": "TXN-0033",
+    "type": "TRANSACTION",
+    "label": "Transaction 0033",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 42.01,
+      "currency": "USD",
+      "timestamp": "2026-10-24T22:01:00Z"
+    }
+  },
+  {
+    "id": "TXN-0034",
+    "type": "TRANSACTION",
+    "label": "Transaction 0034",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 71.58,
+      "currency": "USD",
+      "timestamp": "2026-10-24T22:18:00Z"
+    }
+  },
+  {
+    "id": "TXN-0035",
+    "type": "TRANSACTION",
+    "label": "Transaction 0035",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 63.69,
+      "currency": "USD",
+      "timestamp": "2026-10-24T22:35:00Z"
+    }
+  },
+  {
+    "id": "TXN-0036",
+    "type": "TRANSACTION",
+    "label": "Transaction 0036",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 78.58,
+      "currency": "USD",
+      "timestamp": "2026-10-24T22:52:00Z"
+    }
+  },
+  {
+    "id": "TXN-0037",
+    "type": "TRANSACTION",
+    "label": "Transaction 0037",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 43.32,
+      "currency": "USD",
+      "timestamp": "2026-10-24T23:09:00Z"
+    }
+  },
+  {
+    "id": "TXN-0038",
+    "type": "TRANSACTION",
+    "label": "Transaction 0038",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 31.66,
+      "currency": "USD",
+      "timestamp": "2026-10-24T23:26:00Z"
+    }
+  },
+  {
+    "id": "TXN-0039",
+    "type": "TRANSACTION",
+    "label": "Transaction 0039",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 60.77,
+      "currency": "USD",
+      "timestamp": "2026-10-24T23:43:00Z"
+    }
+  },
+  {
+    "id": "TXN-0040",
+    "type": "TRANSACTION",
+    "label": "Transaction 0040",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 30.47,
+      "currency": "USD",
+      "timestamp": "2026-10-25T00:00:00Z"
+    }
+  },
+  {
+    "id": "TXN-0041",
+    "type": "TRANSACTION",
+    "label": "Transaction 0041",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1311.41,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:43:00Z"
+    }
+  },
+  {
+    "id": "TXN-0042",
+    "type": "TRANSACTION",
+    "label": "Transaction 0042",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1220.67,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:44:00Z"
+    }
+  },
+  {
+    "id": "TXN-0043",
+    "type": "TRANSACTION",
+    "label": "Transaction 0043",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1484.41,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:45:00Z"
+    }
+  },
+  {
+    "id": "TXN-0044",
+    "type": "TRANSACTION",
+    "label": "Transaction 0044",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1215.11,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:46:00Z"
+    }
+  },
+  {
+    "id": "TXN-0045",
+    "type": "TRANSACTION",
+    "label": "Transaction 0045",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1185.47,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:47:00Z"
+    }
+  },
+  {
+    "id": "TXN-0046",
+    "type": "TRANSACTION",
+    "label": "Transaction 0046",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 806.76,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:48:00Z"
+    }
+  },
+  {
+    "id": "TXN-0047",
+    "type": "TRANSACTION",
+    "label": "Transaction 0047",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1051.8,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:49:00Z"
+    }
+  },
+  {
+    "id": "TXN-0048",
+    "type": "TRANSACTION",
+    "label": "Transaction 0048",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1479.48,
+      "currency": "USD",
+      "timestamp": "2026-10-24T20:50:00Z"
+    }
+  },
+  {
+    "id": "TXN-0049",
+    "type": "TRANSACTION",
+    "label": "Transaction 0049",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 881.01,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:01:00Z"
+    }
+  },
+  {
+    "id": "TXN-0050",
+    "type": "TRANSACTION",
+    "label": "Transaction 0050",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1014.86,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:04:00Z"
+    }
+  },
+  {
+    "id": "TXN-0051",
+    "type": "TRANSACTION",
+    "label": "Transaction 0051",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 803.35,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:07:00Z"
+    }
+  },
+  {
+    "id": "TXN-0052",
+    "type": "TRANSACTION",
+    "label": "Transaction 0052",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 698.44,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:10:00Z"
+    }
+  },
+  {
+    "id": "TXN-0053",
+    "type": "TRANSACTION",
+    "label": "Transaction 0053",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1037.1,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:13:00Z"
+    }
+  },
+  {
+    "id": "TXN-0054",
+    "type": "TRANSACTION",
+    "label": "Transaction 0054",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 580.66,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:16:00Z"
+    }
+  },
+  {
+    "id": "TXN-0055",
+    "type": "TRANSACTION",
+    "label": "Transaction 0055",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 649.61,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:19:00Z"
+    }
+  },
+  {
+    "id": "TXN-0056",
+    "type": "TRANSACTION",
+    "label": "Transaction 0056",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 665.14,
+      "currency": "USD",
+      "timestamp": "2026-10-25T05:22:00Z"
+    }
+  },
+  {
+    "id": "TXN-0057",
+    "type": "TRANSACTION",
+    "label": "Transaction 0057",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 916.48,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:03:00Z"
+    }
+  },
+  {
+    "id": "TXN-0058",
+    "type": "TRANSACTION",
+    "label": "Transaction 0058",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 835.55,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:05:00Z"
+    }
+  },
+  {
+    "id": "TXN-0059",
+    "type": "TRANSACTION",
+    "label": "Transaction 0059",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1184.8,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:07:00Z"
+    }
+  },
+  {
+    "id": "TXN-0060",
+    "type": "TRANSACTION",
+    "label": "Transaction 0060",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 633.56,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:09:00Z"
+    }
+  },
+  {
+    "id": "TXN-0061",
+    "type": "TRANSACTION",
+    "label": "Transaction 0061",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 569.57,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:11:00Z"
+    }
+  },
+  {
+    "id": "TXN-0062",
+    "type": "TRANSACTION",
+    "label": "Transaction 0062",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 814.98,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:13:00Z"
+    }
+  },
+  {
+    "id": "TXN-0063",
+    "type": "TRANSACTION",
+    "label": "Transaction 0063",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 1085.19,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:15:00Z"
+    }
+  },
+  {
+    "id": "TXN-0064",
+    "type": "TRANSACTION",
+    "label": "Transaction 0064",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 932.62,
+      "currency": "USD",
+      "timestamp": "2026-10-25T10:17:00Z"
+    }
+  },
+  {
+    "id": "TXN-0065",
+    "type": "TRANSACTION",
+    "label": "Transaction 0065",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 198.1,
+      "currency": "USD",
+      "timestamp": "2026-10-26T00:22:00Z"
+    }
+  },
+  {
+    "id": "TXN-0066",
+    "type": "TRANSACTION",
+    "label": "Transaction 0066",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 264.95,
+      "currency": "USD",
+      "timestamp": "2026-10-26T00:33:00Z"
+    }
+  },
+  {
+    "id": "TXN-0067",
+    "type": "TRANSACTION",
+    "label": "Transaction 0067",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 225.22,
+      "currency": "USD",
+      "timestamp": "2026-10-26T00:44:00Z"
+    }
+  },
+  {
+    "id": "TXN-0068",
+    "type": "TRANSACTION",
+    "label": "Transaction 0068",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 342.29,
+      "currency": "USD",
+      "timestamp": "2026-10-26T00:55:00Z"
+    }
+  },
+  {
+    "id": "TXN-0069",
+    "type": "TRANSACTION",
+    "label": "Transaction 0069",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 382.88,
+      "currency": "USD",
+      "timestamp": "2026-10-26T01:06:00Z"
+    }
+  },
+  {
+    "id": "TXN-0070",
+    "type": "TRANSACTION",
+    "label": "Transaction 0070",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 261.04,
+      "currency": "USD",
+      "timestamp": "2026-10-26T01:17:00Z"
+    }
+  },
+  {
+    "id": "TXN-0071",
+    "type": "TRANSACTION",
+    "label": "Transaction 0071",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 271.83,
+      "currency": "USD",
+      "timestamp": "2026-10-26T01:28:00Z"
+    }
+  },
+  {
+    "id": "TXN-0072",
+    "type": "TRANSACTION",
+    "label": "Transaction 0072",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "metadata": {
+      "amount": 292.84,
+      "currency": "USD",
+      "timestamp": "2026-10-26T01:39:00Z"
+    }
+  },
+  {
+    "id": "TXN-0073",
+    "type": "TRANSACTION",
+    "label": "Transaction 0073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "metadata": {
+      "amount": 120.0,
+      "currency": "USD",
+      "timestamp": "2026-10-26T07:50:00Z"
+    }
+  },
+  {
+    "id": "TXN-0074",
+    "type": "TRANSACTION",
+    "label": "Transaction 0074",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 920.0,
+      "currency": "USD",
+      "timestamp": "2026-10-26T08:30:00Z"
+    }
+  },
+  {
+    "id": "TXN-0075",
+    "type": "TRANSACTION",
+    "label": "Transaction 0075",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "metadata": {
+      "amount": 780.0,
+      "currency": "USD",
+      "timestamp": "2026-10-26T08:40:00Z"
+    }
+  }
+]

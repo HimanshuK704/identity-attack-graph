@@ -1,0 +1,3457 @@
+[
+  {
+    "id": "EV-0001",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:13:00Z",
+    "source_id": "ACC-001",
+    "target_id": "DEV-001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0002",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:14:00Z",
+    "source_id": "ACC-001",
+    "target_id": "IP-001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0003",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:15:00Z",
+    "source_id": "ACC-001",
+    "target_id": "SES-001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0004",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:16:00Z",
+    "source_id": "ACC-001",
+    "target_id": "PH-001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0005",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:17:00Z",
+    "source_id": "ACC-001",
+    "target_id": "EM-001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0006",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:18:00Z",
+    "source_id": "ACC-001",
+    "target_id": "TXN-0001",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 99.33,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0007",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:26:00Z",
+    "source_id": "ACC-002",
+    "target_id": "DEV-002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0008",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:27:00Z",
+    "source_id": "ACC-002",
+    "target_id": "IP-002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0009",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:28:00Z",
+    "source_id": "ACC-002",
+    "target_id": "SES-002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0010",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:29:00Z",
+    "source_id": "ACC-002",
+    "target_id": "PH-002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0011",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:30:00Z",
+    "source_id": "ACC-002",
+    "target_id": "EM-002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0012",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:31:00Z",
+    "source_id": "ACC-002",
+    "target_id": "TXN-0002",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 165.05,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0013",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:39:00Z",
+    "source_id": "ACC-003",
+    "target_id": "DEV-003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0014",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:40:00Z",
+    "source_id": "ACC-003",
+    "target_id": "IP-003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0015",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:41:00Z",
+    "source_id": "ACC-003",
+    "target_id": "SES-003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0016",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:42:00Z",
+    "source_id": "ACC-003",
+    "target_id": "PH-003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0017",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:43:00Z",
+    "source_id": "ACC-003",
+    "target_id": "EM-003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0018",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:44:00Z",
+    "source_id": "ACC-003",
+    "target_id": "TXN-0003",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 48.27,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0019",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T04:52:00Z",
+    "source_id": "ACC-004",
+    "target_id": "DEV-004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0020",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T04:53:00Z",
+    "source_id": "ACC-004",
+    "target_id": "IP-004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0021",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T04:54:00Z",
+    "source_id": "ACC-004",
+    "target_id": "SES-004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0022",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T04:55:00Z",
+    "source_id": "ACC-004",
+    "target_id": "PH-004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0023",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T04:56:00Z",
+    "source_id": "ACC-004",
+    "target_id": "EM-004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0024",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T04:57:00Z",
+    "source_id": "ACC-004",
+    "target_id": "TXN-0004",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 30.82,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0025",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:05:00Z",
+    "source_id": "ACC-005",
+    "target_id": "DEV-005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0026",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:06:00Z",
+    "source_id": "ACC-005",
+    "target_id": "IP-005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0027",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:07:00Z",
+    "source_id": "ACC-005",
+    "target_id": "SES-005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0028",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:08:00Z",
+    "source_id": "ACC-005",
+    "target_id": "PH-005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0029",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:09:00Z",
+    "source_id": "ACC-005",
+    "target_id": "EM-005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0030",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:10:00Z",
+    "source_id": "ACC-005",
+    "target_id": "TXN-0005",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 42.96,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0031",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:18:00Z",
+    "source_id": "ACC-006",
+    "target_id": "DEV-006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0032",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:19:00Z",
+    "source_id": "ACC-006",
+    "target_id": "IP-006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0033",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:20:00Z",
+    "source_id": "ACC-006",
+    "target_id": "SES-006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0034",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:21:00Z",
+    "source_id": "ACC-006",
+    "target_id": "PH-006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0035",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:22:00Z",
+    "source_id": "ACC-006",
+    "target_id": "EM-006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0036",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:23:00Z",
+    "source_id": "ACC-006",
+    "target_id": "TXN-0006",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 127.8,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0037",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:31:00Z",
+    "source_id": "ACC-007",
+    "target_id": "DEV-007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0038",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:32:00Z",
+    "source_id": "ACC-007",
+    "target_id": "IP-007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0039",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:33:00Z",
+    "source_id": "ACC-007",
+    "target_id": "SES-007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0040",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:34:00Z",
+    "source_id": "ACC-007",
+    "target_id": "PH-007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0041",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:35:00Z",
+    "source_id": "ACC-007",
+    "target_id": "EM-007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0042",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:36:00Z",
+    "source_id": "ACC-007",
+    "target_id": "TXN-0007",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 34.83,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0043",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:44:00Z",
+    "source_id": "ACC-008",
+    "target_id": "DEV-008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0044",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:45:00Z",
+    "source_id": "ACC-008",
+    "target_id": "IP-008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0045",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:46:00Z",
+    "source_id": "ACC-008",
+    "target_id": "SES-008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0046",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T05:47:00Z",
+    "source_id": "ACC-008",
+    "target_id": "PH-008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0047",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T05:48:00Z",
+    "source_id": "ACC-008",
+    "target_id": "EM-008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0048",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T05:49:00Z",
+    "source_id": "ACC-008",
+    "target_id": "TXN-0008",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 138.48,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0049",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T05:57:00Z",
+    "source_id": "ACC-009",
+    "target_id": "DEV-009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0050",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T05:58:00Z",
+    "source_id": "ACC-009",
+    "target_id": "IP-009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0051",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T05:59:00Z",
+    "source_id": "ACC-009",
+    "target_id": "SES-009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0052",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:00:00Z",
+    "source_id": "ACC-009",
+    "target_id": "PH-009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0053",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:01:00Z",
+    "source_id": "ACC-009",
+    "target_id": "EM-009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0054",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:02:00Z",
+    "source_id": "ACC-009",
+    "target_id": "TXN-0009",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 175.66,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0055",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:10:00Z",
+    "source_id": "ACC-010",
+    "target_id": "DEV-010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0056",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:11:00Z",
+    "source_id": "ACC-010",
+    "target_id": "IP-010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0057",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:12:00Z",
+    "source_id": "ACC-010",
+    "target_id": "SES-010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0058",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:13:00Z",
+    "source_id": "ACC-010",
+    "target_id": "PH-010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0059",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:14:00Z",
+    "source_id": "ACC-010",
+    "target_id": "EM-010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0060",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:15:00Z",
+    "source_id": "ACC-010",
+    "target_id": "TXN-0010",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 82.26,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0061",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:23:00Z",
+    "source_id": "ACC-011",
+    "target_id": "DEV-011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0062",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:24:00Z",
+    "source_id": "ACC-011",
+    "target_id": "IP-011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0063",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:25:00Z",
+    "source_id": "ACC-011",
+    "target_id": "SES-011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0064",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:26:00Z",
+    "source_id": "ACC-011",
+    "target_id": "PH-011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0065",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:27:00Z",
+    "source_id": "ACC-011",
+    "target_id": "EM-011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0066",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:28:00Z",
+    "source_id": "ACC-011",
+    "target_id": "TXN-0011",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 35.97,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0067",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:36:00Z",
+    "source_id": "ACC-012",
+    "target_id": "DEV-012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0068",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:37:00Z",
+    "source_id": "ACC-012",
+    "target_id": "IP-012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0069",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:38:00Z",
+    "source_id": "ACC-012",
+    "target_id": "SES-012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0070",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:39:00Z",
+    "source_id": "ACC-012",
+    "target_id": "PH-012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0071",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:40:00Z",
+    "source_id": "ACC-012",
+    "target_id": "EM-012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0072",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:41:00Z",
+    "source_id": "ACC-012",
+    "target_id": "TXN-0012",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 8.37,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0073",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T06:49:00Z",
+    "source_id": "ACC-013",
+    "target_id": "DEV-013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0074",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T06:50:00Z",
+    "source_id": "ACC-013",
+    "target_id": "IP-013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0075",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T06:51:00Z",
+    "source_id": "ACC-013",
+    "target_id": "SES-013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0076",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T06:52:00Z",
+    "source_id": "ACC-013",
+    "target_id": "PH-013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0077",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T06:53:00Z",
+    "source_id": "ACC-013",
+    "target_id": "EM-013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0078",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T06:54:00Z",
+    "source_id": "ACC-013",
+    "target_id": "TXN-0013",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 64.01,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0079",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:02:00Z",
+    "source_id": "ACC-014",
+    "target_id": "DEV-014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0080",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:03:00Z",
+    "source_id": "ACC-014",
+    "target_id": "IP-014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0081",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:04:00Z",
+    "source_id": "ACC-014",
+    "target_id": "SES-014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0082",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:05:00Z",
+    "source_id": "ACC-014",
+    "target_id": "PH-014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0083",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:06:00Z",
+    "source_id": "ACC-014",
+    "target_id": "EM-014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0084",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:07:00Z",
+    "source_id": "ACC-014",
+    "target_id": "TXN-0014",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 33.64,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0085",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:15:00Z",
+    "source_id": "ACC-015",
+    "target_id": "DEV-015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0086",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:16:00Z",
+    "source_id": "ACC-015",
+    "target_id": "IP-015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0087",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:17:00Z",
+    "source_id": "ACC-015",
+    "target_id": "SES-015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0088",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:18:00Z",
+    "source_id": "ACC-015",
+    "target_id": "PH-015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0089",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:19:00Z",
+    "source_id": "ACC-015",
+    "target_id": "EM-015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0090",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:20:00Z",
+    "source_id": "ACC-015",
+    "target_id": "TXN-0015",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 53.29,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0091",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:28:00Z",
+    "source_id": "ACC-016",
+    "target_id": "DEV-016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0092",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:29:00Z",
+    "source_id": "ACC-016",
+    "target_id": "IP-016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0093",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:30:00Z",
+    "source_id": "ACC-016",
+    "target_id": "SES-016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0094",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:31:00Z",
+    "source_id": "ACC-016",
+    "target_id": "PH-016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0095",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:32:00Z",
+    "source_id": "ACC-016",
+    "target_id": "EM-016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0096",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:33:00Z",
+    "source_id": "ACC-016",
+    "target_id": "TXN-0016",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 46.79,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0097",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:41:00Z",
+    "source_id": "ACC-017",
+    "target_id": "DEV-017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0098",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:42:00Z",
+    "source_id": "ACC-017",
+    "target_id": "IP-017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0099",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:43:00Z",
+    "source_id": "ACC-017",
+    "target_id": "SES-017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0100",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:44:00Z",
+    "source_id": "ACC-017",
+    "target_id": "PH-017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0101",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:45:00Z",
+    "source_id": "ACC-017",
+    "target_id": "EM-017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0102",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:46:00Z",
+    "source_id": "ACC-017",
+    "target_id": "TXN-0017",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 59.8,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0103",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T07:54:00Z",
+    "source_id": "ACC-018",
+    "target_id": "DEV-018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0104",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T07:55:00Z",
+    "source_id": "ACC-018",
+    "target_id": "IP-018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0105",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T07:56:00Z",
+    "source_id": "ACC-018",
+    "target_id": "SES-018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0106",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T07:57:00Z",
+    "source_id": "ACC-018",
+    "target_id": "PH-018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0107",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T07:58:00Z",
+    "source_id": "ACC-018",
+    "target_id": "EM-018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0108",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T07:59:00Z",
+    "source_id": "ACC-018",
+    "target_id": "TXN-0018",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 77.95,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0109",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:07:00Z",
+    "source_id": "ACC-019",
+    "target_id": "DEV-019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0110",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:08:00Z",
+    "source_id": "ACC-019",
+    "target_id": "IP-019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0111",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:09:00Z",
+    "source_id": "ACC-019",
+    "target_id": "SES-019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0112",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:10:00Z",
+    "source_id": "ACC-019",
+    "target_id": "PH-019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0113",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:11:00Z",
+    "source_id": "ACC-019",
+    "target_id": "EM-019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0114",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:12:00Z",
+    "source_id": "ACC-019",
+    "target_id": "TXN-0019",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 102.38,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0115",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:20:00Z",
+    "source_id": "ACC-020",
+    "target_id": "DEV-020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0116",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:21:00Z",
+    "source_id": "ACC-020",
+    "target_id": "IP-020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0117",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:22:00Z",
+    "source_id": "ACC-020",
+    "target_id": "SES-020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0118",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:23:00Z",
+    "source_id": "ACC-020",
+    "target_id": "PH-020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0119",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:24:00Z",
+    "source_id": "ACC-020",
+    "target_id": "EM-020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0120",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:25:00Z",
+    "source_id": "ACC-020",
+    "target_id": "TXN-0020",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 47.82,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0121",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:33:00Z",
+    "source_id": "ACC-021",
+    "target_id": "DEV-021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0122",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:34:00Z",
+    "source_id": "ACC-021",
+    "target_id": "IP-021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0123",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:35:00Z",
+    "source_id": "ACC-021",
+    "target_id": "SES-021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0124",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:36:00Z",
+    "source_id": "ACC-021",
+    "target_id": "PH-021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0125",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:37:00Z",
+    "source_id": "ACC-021",
+    "target_id": "EM-021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0126",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:38:00Z",
+    "source_id": "ACC-021",
+    "target_id": "TXN-0021",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 202.92,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0127",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:46:00Z",
+    "source_id": "ACC-022",
+    "target_id": "DEV-022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0128",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T08:47:00Z",
+    "source_id": "ACC-022",
+    "target_id": "IP-022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0129",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T08:48:00Z",
+    "source_id": "ACC-022",
+    "target_id": "SES-022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0130",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T08:49:00Z",
+    "source_id": "ACC-022",
+    "target_id": "PH-022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0131",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T08:50:00Z",
+    "source_id": "ACC-022",
+    "target_id": "EM-022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0132",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T08:51:00Z",
+    "source_id": "ACC-022",
+    "target_id": "TXN-0022",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 113.38,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0133",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T08:59:00Z",
+    "source_id": "ACC-023",
+    "target_id": "DEV-023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0134",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:00:00Z",
+    "source_id": "ACC-023",
+    "target_id": "IP-023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0135",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:01:00Z",
+    "source_id": "ACC-023",
+    "target_id": "SES-023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0136",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:02:00Z",
+    "source_id": "ACC-023",
+    "target_id": "PH-023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0137",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:03:00Z",
+    "source_id": "ACC-023",
+    "target_id": "EM-023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0138",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:04:00Z",
+    "source_id": "ACC-023",
+    "target_id": "TXN-0023",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 103.58,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0139",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:12:00Z",
+    "source_id": "ACC-024",
+    "target_id": "DEV-024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0140",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:13:00Z",
+    "source_id": "ACC-024",
+    "target_id": "IP-024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0141",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:14:00Z",
+    "source_id": "ACC-024",
+    "target_id": "SES-024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0142",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:15:00Z",
+    "source_id": "ACC-024",
+    "target_id": "PH-024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0143",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:16:00Z",
+    "source_id": "ACC-024",
+    "target_id": "EM-024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0144",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:17:00Z",
+    "source_id": "ACC-024",
+    "target_id": "TXN-0024",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 53.01,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0145",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:25:00Z",
+    "source_id": "ACC-025",
+    "target_id": "DEV-025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0146",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:26:00Z",
+    "source_id": "ACC-025",
+    "target_id": "IP-025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0147",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:27:00Z",
+    "source_id": "ACC-025",
+    "target_id": "SES-025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0148",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:28:00Z",
+    "source_id": "ACC-025",
+    "target_id": "PH-025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0149",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:29:00Z",
+    "source_id": "ACC-025",
+    "target_id": "EM-025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0150",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:30:00Z",
+    "source_id": "ACC-025",
+    "target_id": "TXN-0025",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 41.36,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0151",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:38:00Z",
+    "source_id": "ACC-026",
+    "target_id": "DEV-026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0152",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:39:00Z",
+    "source_id": "ACC-026",
+    "target_id": "IP-026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0153",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:40:00Z",
+    "source_id": "ACC-026",
+    "target_id": "SES-026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0154",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:41:00Z",
+    "source_id": "ACC-026",
+    "target_id": "PH-026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0155",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:42:00Z",
+    "source_id": "ACC-026",
+    "target_id": "EM-026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0156",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:43:00Z",
+    "source_id": "ACC-026",
+    "target_id": "TXN-0026",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 157.15,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0157",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T09:51:00Z",
+    "source_id": "ACC-027",
+    "target_id": "DEV-027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0158",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T09:52:00Z",
+    "source_id": "ACC-027",
+    "target_id": "IP-027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0159",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T09:53:00Z",
+    "source_id": "ACC-027",
+    "target_id": "SES-027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0160",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T09:54:00Z",
+    "source_id": "ACC-027",
+    "target_id": "PH-027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0161",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T09:55:00Z",
+    "source_id": "ACC-027",
+    "target_id": "EM-027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0162",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T09:56:00Z",
+    "source_id": "ACC-027",
+    "target_id": "TXN-0027",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 20.34,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0163",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T10:04:00Z",
+    "source_id": "ACC-028",
+    "target_id": "DEV-028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0164",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T10:05:00Z",
+    "source_id": "ACC-028",
+    "target_id": "IP-028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0165",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T10:06:00Z",
+    "source_id": "ACC-028",
+    "target_id": "SES-028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0166",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T10:07:00Z",
+    "source_id": "ACC-028",
+    "target_id": "PH-028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0167",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T10:08:00Z",
+    "source_id": "ACC-028",
+    "target_id": "EM-028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0168",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T10:09:00Z",
+    "source_id": "ACC-028",
+    "target_id": "TXN-0028",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 149.32,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0169",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T10:17:00Z",
+    "source_id": "ACC-029",
+    "target_id": "DEV-029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0170",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T10:18:00Z",
+    "source_id": "ACC-029",
+    "target_id": "IP-029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0171",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T10:19:00Z",
+    "source_id": "ACC-029",
+    "target_id": "SES-029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0172",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T10:20:00Z",
+    "source_id": "ACC-029",
+    "target_id": "PH-029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0173",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T10:21:00Z",
+    "source_id": "ACC-029",
+    "target_id": "EM-029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0174",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T10:22:00Z",
+    "source_id": "ACC-029",
+    "target_id": "TXN-0029",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 63.63,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0175",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T10:30:00Z",
+    "source_id": "ACC-030",
+    "target_id": "DEV-030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0176",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T10:31:00Z",
+    "source_id": "ACC-030",
+    "target_id": "IP-030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0177",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T10:32:00Z",
+    "source_id": "ACC-030",
+    "target_id": "SES-030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0178",
+    "event_type": "OWNS_PHONE",
+    "timestamp": "2026-10-24T10:33:00Z",
+    "source_id": "ACC-030",
+    "target_id": "PH-030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0179",
+    "event_type": "OWNS_EMAIL",
+    "timestamp": "2026-10-24T10:34:00Z",
+    "source_id": "ACC-030",
+    "target_id": "EM-030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0180",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T10:35:00Z",
+    "source_id": "ACC-030",
+    "target_id": "TXN-0030",
+    "scenario_id": "SCN-01",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 144.17,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0181",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:07:00Z",
+    "source_id": "ACC-031",
+    "target_id": "DEV-031",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0182",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T21:09:00Z",
+    "source_id": "ACC-031",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0183",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T21:27:00Z",
+    "source_id": "ACC-031",
+    "target_id": "TXN-0031",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 33.89,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0184",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:24:00Z",
+    "source_id": "ACC-032",
+    "target_id": "DEV-032",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0185",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T21:26:00Z",
+    "source_id": "ACC-032",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0186",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T21:44:00Z",
+    "source_id": "ACC-032",
+    "target_id": "TXN-0032",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 39.23,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0187",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:41:00Z",
+    "source_id": "ACC-033",
+    "target_id": "DEV-033",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0188",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T21:43:00Z",
+    "source_id": "ACC-033",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0189",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:01:00Z",
+    "source_id": "ACC-033",
+    "target_id": "TXN-0033",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 42.01,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0190",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T21:58:00Z",
+    "source_id": "ACC-034",
+    "target_id": "DEV-034",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0191",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:00:00Z",
+    "source_id": "ACC-034",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0192",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:18:00Z",
+    "source_id": "ACC-034",
+    "target_id": "TXN-0034",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 71.58,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0193",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T22:15:00Z",
+    "source_id": "ACC-035",
+    "target_id": "DEV-035",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0194",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:17:00Z",
+    "source_id": "ACC-035",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0195",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:35:00Z",
+    "source_id": "ACC-035",
+    "target_id": "TXN-0035",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 63.69,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0196",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T22:32:00Z",
+    "source_id": "ACC-036",
+    "target_id": "DEV-036",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0197",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:34:00Z",
+    "source_id": "ACC-036",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0198",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T22:52:00Z",
+    "source_id": "ACC-036",
+    "target_id": "TXN-0036",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 78.58,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0199",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T22:49:00Z",
+    "source_id": "ACC-037",
+    "target_id": "DEV-037",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0200",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T22:51:00Z",
+    "source_id": "ACC-037",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0201",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T23:09:00Z",
+    "source_id": "ACC-037",
+    "target_id": "TXN-0037",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 43.32,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0202",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T23:06:00Z",
+    "source_id": "ACC-038",
+    "target_id": "DEV-038",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0203",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T23:08:00Z",
+    "source_id": "ACC-038",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0204",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T23:26:00Z",
+    "source_id": "ACC-038",
+    "target_id": "TXN-0038",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 31.66,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0205",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T23:23:00Z",
+    "source_id": "ACC-039",
+    "target_id": "DEV-039",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0206",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T23:25:00Z",
+    "source_id": "ACC-039",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0207",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T23:43:00Z",
+    "source_id": "ACC-039",
+    "target_id": "TXN-0039",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 60.77,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0208",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T23:40:00Z",
+    "source_id": "ACC-040",
+    "target_id": "DEV-040",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0209",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T23:42:00Z",
+    "source_id": "ACC-040",
+    "target_id": "IP-SHARED-01",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0210",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T00:00:00Z",
+    "source_id": "ACC-040",
+    "target_id": "TXN-0040",
+    "scenario_id": "SCN-02",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 30.47,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0211",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:40:00Z",
+    "source_id": "ACC-041",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0212",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:41:00Z",
+    "source_id": "ACC-041",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0213",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:42:00Z",
+    "source_id": "ACC-041",
+    "target_id": "SES-041",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0214",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "source_id": "ACC-041",
+    "target_id": "TXN-0041",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1311.41,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0215",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:41:00Z",
+    "source_id": "ACC-042",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0216",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:42:00Z",
+    "source_id": "ACC-042",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0217",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "source_id": "ACC-042",
+    "target_id": "SES-042",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0218",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "source_id": "ACC-042",
+    "target_id": "TXN-0042",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1220.67,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0219",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:42:00Z",
+    "source_id": "ACC-043",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0220",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "source_id": "ACC-043",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0221",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "source_id": "ACC-043",
+    "target_id": "SES-043",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0222",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "source_id": "ACC-043",
+    "target_id": "TXN-0043",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1484.41,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0223",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:43:00Z",
+    "source_id": "ACC-044",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0224",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "source_id": "ACC-044",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0225",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "source_id": "ACC-044",
+    "target_id": "SES-044",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0226",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "source_id": "ACC-044",
+    "target_id": "TXN-0044",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1215.11,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0227",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:44:00Z",
+    "source_id": "ACC-045",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0228",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "source_id": "ACC-045",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0229",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "source_id": "ACC-045",
+    "target_id": "SES-045",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0230",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "source_id": "ACC-045",
+    "target_id": "TXN-0045",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1185.47,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0231",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:45:00Z",
+    "source_id": "ACC-046",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0232",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "source_id": "ACC-046",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0233",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "source_id": "ACC-046",
+    "target_id": "SES-046",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0234",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "source_id": "ACC-046",
+    "target_id": "TXN-0046",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 806.76,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0235",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:46:00Z",
+    "source_id": "ACC-047",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0236",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "source_id": "ACC-047",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0237",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "source_id": "ACC-047",
+    "target_id": "SES-047",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0238",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:49:00Z",
+    "source_id": "ACC-047",
+    "target_id": "TXN-0047",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1051.8,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0239",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-24T20:47:00Z",
+    "source_id": "ACC-048",
+    "target_id": "DEV-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0240",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-24T20:48:00Z",
+    "source_id": "ACC-048",
+    "target_id": "IP-ATTACK-01",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0241",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-24T20:49:00Z",
+    "source_id": "ACC-048",
+    "target_id": "SES-048",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0242",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-24T20:50:00Z",
+    "source_id": "ACC-048",
+    "target_id": "TXN-0048",
+    "scenario_id": "SCN-03",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1479.48,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0243",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:00:00Z",
+    "source_id": "ACC-049",
+    "target_id": "IP-049",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0244",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:01:00Z",
+    "source_id": "ACC-049",
+    "target_id": "TXN-0049",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 881.01,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0245",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:03:00Z",
+    "source_id": "ACC-050",
+    "target_id": "IP-050",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0246",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:04:00Z",
+    "source_id": "ACC-050",
+    "target_id": "TXN-0050",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1014.86,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0247",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:06:00Z",
+    "source_id": "ACC-051",
+    "target_id": "IP-051",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0248",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:07:00Z",
+    "source_id": "ACC-051",
+    "target_id": "TXN-0051",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 803.35,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0249",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:09:00Z",
+    "source_id": "ACC-052",
+    "target_id": "IP-052",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0250",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:10:00Z",
+    "source_id": "ACC-052",
+    "target_id": "TXN-0052",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 698.44,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0251",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:12:00Z",
+    "source_id": "ACC-053",
+    "target_id": "IP-053",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0252",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:13:00Z",
+    "source_id": "ACC-053",
+    "target_id": "TXN-0053",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1037.1,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0253",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:15:00Z",
+    "source_id": "ACC-054",
+    "target_id": "IP-054",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0254",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:16:00Z",
+    "source_id": "ACC-054",
+    "target_id": "TXN-0054",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 580.66,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0255",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:18:00Z",
+    "source_id": "ACC-055",
+    "target_id": "IP-055",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0256",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:19:00Z",
+    "source_id": "ACC-055",
+    "target_id": "TXN-0055",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 649.61,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0257",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T05:21:00Z",
+    "source_id": "ACC-056",
+    "target_id": "IP-056",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0258",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T05:22:00Z",
+    "source_id": "ACC-056",
+    "target_id": "TXN-0056",
+    "scenario_id": "SCN-04",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 665.14,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0259",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:00:00Z",
+    "source_id": "ACC-065",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0260",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:01:00Z",
+    "source_id": "ACC-065",
+    "target_id": "SES-065",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0261",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:02:00Z",
+    "source_id": "ACC-065",
+    "target_id": "DEV-065",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0262",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:03:00Z",
+    "source_id": "ACC-065",
+    "target_id": "TXN-0057",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 916.48,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0263",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:02:00Z",
+    "source_id": "ACC-066",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0264",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:03:00Z",
+    "source_id": "ACC-066",
+    "target_id": "SES-066",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0265",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:04:00Z",
+    "source_id": "ACC-066",
+    "target_id": "DEV-066",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0266",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:05:00Z",
+    "source_id": "ACC-066",
+    "target_id": "TXN-0058",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 835.55,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0267",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:04:00Z",
+    "source_id": "ACC-067",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0268",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:05:00Z",
+    "source_id": "ACC-067",
+    "target_id": "SES-067",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0269",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:06:00Z",
+    "source_id": "ACC-067",
+    "target_id": "DEV-067",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0270",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:07:00Z",
+    "source_id": "ACC-067",
+    "target_id": "TXN-0059",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1184.8,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0271",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:06:00Z",
+    "source_id": "ACC-068",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0272",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:07:00Z",
+    "source_id": "ACC-068",
+    "target_id": "SES-068",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0273",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:08:00Z",
+    "source_id": "ACC-068",
+    "target_id": "DEV-068",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0274",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:09:00Z",
+    "source_id": "ACC-068",
+    "target_id": "TXN-0060",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 633.56,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0275",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:08:00Z",
+    "source_id": "ACC-069",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0276",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:09:00Z",
+    "source_id": "ACC-069",
+    "target_id": "SES-069",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0277",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:10:00Z",
+    "source_id": "ACC-069",
+    "target_id": "DEV-069",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0278",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:11:00Z",
+    "source_id": "ACC-069",
+    "target_id": "TXN-0061",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 569.57,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0279",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:10:00Z",
+    "source_id": "ACC-070",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0280",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:11:00Z",
+    "source_id": "ACC-070",
+    "target_id": "SES-070",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0281",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:12:00Z",
+    "source_id": "ACC-070",
+    "target_id": "DEV-070",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0282",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:13:00Z",
+    "source_id": "ACC-070",
+    "target_id": "TXN-0062",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 814.98,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0283",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:12:00Z",
+    "source_id": "ACC-071",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0284",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:13:00Z",
+    "source_id": "ACC-071",
+    "target_id": "SES-071",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0285",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:14:00Z",
+    "source_id": "ACC-071",
+    "target_id": "DEV-071",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0286",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:15:00Z",
+    "source_id": "ACC-071",
+    "target_id": "TXN-0063",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 1085.19,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0287",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T10:14:00Z",
+    "source_id": "ACC-072",
+    "target_id": "IP-RAPID-01",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0288",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-25T10:15:00Z",
+    "source_id": "ACC-072",
+    "target_id": "SES-072",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0289",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T10:16:00Z",
+    "source_id": "ACC-072",
+    "target_id": "DEV-072",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0290",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-25T10:17:00Z",
+    "source_id": "ACC-072",
+    "target_id": "TXN-0064",
+    "scenario_id": "SCN-05",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 932.62,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0291",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T23:47:00Z",
+    "source_id": "ACC-057",
+    "target_id": "DEV-057",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0292",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T23:48:00Z",
+    "source_id": "ACC-057",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0293",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:22:00Z",
+    "source_id": "ACC-057",
+    "target_id": "TXN-0065",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 198.1,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0294",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-25T23:58:00Z",
+    "source_id": "ACC-058",
+    "target_id": "DEV-058",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0295",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-25T23:59:00Z",
+    "source_id": "ACC-058",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0296",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:33:00Z",
+    "source_id": "ACC-058",
+    "target_id": "TXN-0066",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 264.95,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0297",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:09:00Z",
+    "source_id": "ACC-059",
+    "target_id": "DEV-059",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0298",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:10:00Z",
+    "source_id": "ACC-059",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0299",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:44:00Z",
+    "source_id": "ACC-059",
+    "target_id": "TXN-0067",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 225.22,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0300",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:20:00Z",
+    "source_id": "ACC-060",
+    "target_id": "DEV-060",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0301",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:21:00Z",
+    "source_id": "ACC-060",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0302",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T00:55:00Z",
+    "source_id": "ACC-060",
+    "target_id": "TXN-0068",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 342.29,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0303",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:31:00Z",
+    "source_id": "ACC-061",
+    "target_id": "DEV-061",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0304",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:32:00Z",
+    "source_id": "ACC-061",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0305",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:06:00Z",
+    "source_id": "ACC-061",
+    "target_id": "TXN-0069",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 382.88,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0306",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:42:00Z",
+    "source_id": "ACC-062",
+    "target_id": "DEV-062",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0307",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:43:00Z",
+    "source_id": "ACC-062",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0308",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:17:00Z",
+    "source_id": "ACC-062",
+    "target_id": "TXN-0070",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 261.04,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0309",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T00:53:00Z",
+    "source_id": "ACC-063",
+    "target_id": "DEV-063",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0310",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T00:54:00Z",
+    "source_id": "ACC-063",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0311",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:28:00Z",
+    "source_id": "ACC-063",
+    "target_id": "TXN-0071",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 271.83,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0312",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T01:04:00Z",
+    "source_id": "ACC-064",
+    "target_id": "DEV-064",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0313",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T01:05:00Z",
+    "source_id": "ACC-064",
+    "target_id": "IP-OFFICE-01",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0314",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T01:39:00Z",
+    "source_id": "ACC-064",
+    "target_id": "TXN-0072",
+    "scenario_id": "SCN-06",
+    "ground_truth_label": "AMBIGUOUS",
+    "details": {
+      "amount": 292.84,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0315",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T07:40:00Z",
+    "source_id": "ACC-073",
+    "target_id": "DEV-073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0316",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T07:41:00Z",
+    "source_id": "ACC-073",
+    "target_id": "IP-073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0317",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-26T07:42:00Z",
+    "source_id": "ACC-073",
+    "target_id": "SES-073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "details": {}
+  },
+  {
+    "id": "EV-0318",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T07:50:00Z",
+    "source_id": "ACC-073",
+    "target_id": "TXN-0073",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "BENIGN",
+    "details": {
+      "amount": 120.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0319",
+    "event_type": "USES_DEVICE",
+    "timestamp": "2026-10-26T08:20:00Z",
+    "source_id": "ACC-073",
+    "target_id": "DEV-TAKEOVER-01",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0320",
+    "event_type": "LOGGED_IN_FROM",
+    "timestamp": "2026-10-26T08:21:00Z",
+    "source_id": "ACC-073",
+    "target_id": "IP-TAKEOVER-01",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0321",
+    "event_type": "HAS_SESSION",
+    "timestamp": "2026-10-26T08:22:00Z",
+    "source_id": "ACC-073",
+    "target_id": "SES-TAKEOVER-01",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {}
+  },
+  {
+    "id": "EV-0322",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T08:30:00Z",
+    "source_id": "ACC-073",
+    "target_id": "TXN-0074",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 920.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "EV-0323",
+    "event_type": "INITIATED_TRANSACTION",
+    "timestamp": "2026-10-26T08:40:00Z",
+    "source_id": "ACC-073",
+    "target_id": "TXN-0075",
+    "scenario_id": "SCN-07",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "details": {
+      "amount": 780.0,
+      "currency": "USD"
+    }
+  }
+]

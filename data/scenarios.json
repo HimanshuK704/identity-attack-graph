@@ -1,0 +1,51 @@
+[
+  {
+    "id": "SCN-01",
+    "name": "Ordinary legitimate activity",
+    "ground_truth_label": "BENIGN",
+    "description": "Routine account access and occasional transfers.",
+    "synthetic": true
+  },
+  {
+    "id": "SCN-02",
+    "name": "Benign shared public infrastructure",
+    "ground_truth_label": "BENIGN",
+    "description": "Several legitimate accounts use one public IP; sharing alone should not trigger high risk.",
+    "synthetic": true
+  },
+  {
+    "id": "SCN-03",
+    "name": "Shared device with additional suspicious context",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "description": "Multiple accounts share a device and show tightly timed access and transfers.",
+    "synthetic": true
+  },
+  {
+    "id": "SCN-04",
+    "name": "Common beneficiary concentration",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "description": "Multiple accounts transfer to a common synthetic beneficiary in a short interval.",
+    "synthetic": true
+  },
+  {
+    "id": "SCN-05",
+    "name": "Rapid coordinated activity",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "description": "A set of accounts generate closely timed sessions and transfers.",
+    "synthetic": true
+  },
+  {
+    "id": "SCN-06",
+    "name": "Ambiguous mixed infrastructure",
+    "ground_truth_label": "AMBIGUOUS",
+    "description": "Shared network signal plus otherwise mixed activity; requires human review.",
+    "synthetic": true
+  },
+  {
+    "id": "SCN-07",
+    "name": "Impersonation-linked account takeover",
+    "ground_truth_label": "PLANTED_SUSPICIOUS",
+    "description": "An established account shows unfamiliar access followed by transfers to a new beneficiary. This is an investigation lead, not proof of impersonation.",
+    "synthetic": true
+  }
+]
