@@ -2,7 +2,6 @@ from pathlib import Path
 from typing import Any
 
 import json
-import os
 
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
@@ -21,24 +20,11 @@ app = FastAPI(
     version="0.1.0",
 )
 
-# Allow the local frontend and the configured production frontend.
-# In Render, set FRONTEND_URL to the published Framer origin, e.g.
-# https://your-project.framer.website (no path or trailing slash).
-frontend_url = os.getenv("FRONTEND_URL", "").strip().rstrip("/")
-
-allow_origins = [
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-]
-
-if frontend_url and frontend_url not in allow_origins:
-    allow_origins.append(frontend_url)
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allow_origins,
+    allow_origins=["*"],
     allow_credentials=False,
-    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 
